@@ -14,7 +14,7 @@ Food insecurity alone is a daunting issue to tackle, while the Food Bank provide
 
 One of the largest barriers is the ability of folks to book a hamper, and to know with confidence that it will be there when they arrive, without spending precious time on the phone waiting for help. By providing an easy means of booking, available 24 hours a day, 7 days a week, and providing a means of confirmation the barrier to support is reduced.
 ## Challenge
-The main issue that the food bank is facing is booking is not easy for customers. There is a large need for customers to be able to book a hamper anywhere and anytime which assurance that they will be able to get their hamper delivered. Since it is difficult to book a hamper currently, there is a large drop off in their support lines since they are overwhelmed with calls causing long wait times wasting valuable minutes. 
+The main issue that the food bank is facing is booking is not easy for customers. There is a large need for customers to be able to book a hamper anywhere and anytime which assurance that they will be able to get their hamper delivered. Since it is difficult to book a hamper currently, there is a large drop off rate in their support lines since they are overwhelmed with calls causing long wait times wasting valuable minutes. 
 
 ## Customers
 
