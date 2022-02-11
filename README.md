@@ -24,7 +24,7 @@ The primary northstar customer is episodic users who are new to having food inse
 These include chronic customers who are already likely onboarded and are very familiar with the proccess of booking. They will appreciate the extra ease to book hampers, but since they are already onboarded they do not require it. It also includes agencies such as Salvation Army who need bulk booking. Currently they book hampers about the same way clients book them, so they will also benifit from this streamlining 
 ## Assumptions
 * Will be developed in WordPress
-* Full working product will not be delevered, only ideas and designs
+* Full working product will not be delivered, only ideas and designs
 
 ## Constraints
 * L2F must be the main CRM
