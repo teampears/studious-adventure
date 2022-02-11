@@ -64,3 +64,15 @@
 07.02.22
 
 ---
+## Checkpoint 1.2
+- Key Components to the design: 
+  - easy/ user friendly booking 
+  - ongoing access 
+  - Confirmation 
+  - Reduce the barriers that people with food insecurity face. 
+- Important Experiences: 
+   - Confirmation that the order was received 
+    - it reduces phone calls and increases people's comfort 
+- Agencies' booking process:
+  - Similar to the process chronic and episodic users go through, just they book a bulk/ batch 
+  - "Just a batch registration" 
