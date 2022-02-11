@@ -1,8 +1,7 @@
-
-### Summary of Customer Notes
-
+# Summary of Customer Notes
+---
+### Check in 1.1
 31.01.22
-
 ##### Shifting from pandemic to new normal over the next years
 - inflation/slow recovery
 - significant increase in new Customers
@@ -61,10 +60,9 @@
   - dietary
 - Selecting times for delivery and pick ups online
 
-07.02.22
-
+### Checkpoint 1.2
 ---
-## Checkpoint 1.2
+09.02.22
 - Key Components to the design: 
   - easy/ user friendly booking 
   - ongoing access 
