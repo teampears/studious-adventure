@@ -12,7 +12,7 @@
 |  | Crowded pickup points |  |  |
 |  | No confirmation |  |  |
 |  | Large forms on website |  |  |
-|  |  |  |  |
+
 
 | **Pain** | **Gain**  |
 | ---- | ----- |
@@ -24,5 +24,4 @@
 | Increased reliance due to food insecurity | Client ease |
 | Difficult location access by bus | Flexibility of access |
 |  | Ongoing support |
-|  |  |
-|  |  |
+
