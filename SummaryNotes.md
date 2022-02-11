@@ -59,9 +59,8 @@
 - Presenting options
   - dietary
 - Selecting times for delivery and pick ups online
-
-### Checkpoint 1.2
 ---
+### Checkpoint 1.2
 09.02.22
 - Key Components to the design: 
   - easy/ user friendly booking 
