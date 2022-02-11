@@ -1,10 +1,6 @@
 # studious-adventure
 ENSE271 - Activity 1
-
 # Project Charter
-
----
-
 ## Project Members
 * Daniil Aleshechkin
 * Benjamin Hajdukiewicz
