@@ -73,3 +73,21 @@
 - Agencies' booking process:
   - Similar to the process chronic and episodic users go through, just they book a bulk/ batch 
   - "Just a batch registration" 
+
+### Checkpoint 2.1
+01.03.22
+- Feedback given for lofis
+  - We should make the delivery time in ranges rather than exact times
+  - General flow is good and makes sense
+  - Good to know the data of each household member (name, age, gender etc..)
+  - The houshold data is important for analytical analysis (determine the source of duplicates in the system)
+- Other notes from other groups
+  - Needed but non-mandatory data will be sent to us by Tim
+  - Family and profile information should only need to be entered once
+  - Names and age is important for household memebers
+  - Households can be multiple families
+  - Household data is important for movement tracking (e.g. shared custody of a child)
+- Answers to questions
+  - Income amount is not really need (cannot be verified)
+  - Income source is far more important than income ammount
+  - Household names and age is important to track movement as well as get a good picture for hamper composition
