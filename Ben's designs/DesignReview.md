@@ -2,8 +2,8 @@ In consideration of our designs, discoverability was a focus. We want to encoura
 
 Displaying a full month's calendar, by *enclosing* the two-week allowable booking timeframe in a shaded area we are using gestalt principles to provide the user with information. The calendar is a *signifier* of the available days which are available for booking, rather than being presented in a tabular form, providing the user with a familiar and comfortable interface. 
 
-![Calendar](https://github.com/teampears/studious-adventure/blob/main/Ben's%20designs/Screen%20Shot%202022-03-04%20at%208.55.39%20AM.png)
+![Calendar](https://github.com/teampears/studious-adventure/blob/main/Ben's%20designs/Screen%20Shot%202022-03-04%20at%208.55.39%20AM.png){width:500px}
 
 Further more, as *feedback* from the system is available, the *closure* is extended providing further *continuity* in the process and by presenting back the information that the user entered in a different layout, we are making the *connection* between what the user has entered and what the system has understood and confirmed, providing comfort to the user that their request will be fulfilled. 
 
-![Calendar Feedback](https://github.com/teampears/studious-adventure/blob/main/Ben's%20designs/Screen%20Shot%202022-03-04%20at%208.56.36%20AM.png)
+![Calendar Feedback](https://github.com/teampears/studious-adventure/blob/main/Ben's%20designs/Screen%20Shot%202022-03-04%20at%208.56.36%20AM.png){width:500px}
