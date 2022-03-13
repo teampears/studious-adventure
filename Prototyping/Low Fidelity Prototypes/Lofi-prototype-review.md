@@ -1,4 +1,4 @@
-# Prototype Review
+# Low Fidelity Prototype Review
 ---
 In consideration of our designs, discoverability was a focus. We want to encourage the use of a service by decreasing the factors that could lead to folks becoming overwhelmed with the user interface. For example, in our designs we have combined 3 different concepts with a focus on discoverability; mapping; signifiers; and feedback.
 
@@ -14,6 +14,4 @@ In our prototypes, we tried to keep the user updated on what they do. For instan
 
 [Calendar Feedback](https://github.com/teampears/studious-adventure/blob/main/Ben's%20designs/Screen%20Shot%202022-03-04%20at%208.56.36%20AM.png)
 
-Further more, as *feedback* from the system is available, the *closure* is extended providing further *continuity* in the process and by presenting back the information that the user entered in a different layout, we are making the *connection* between what the user has entered and what the system has understood and confirmed, providing comfort to the user that their request will be fulfilled. 
-
-
+Further more, as *feedback* from the system is available, the *closure* is extended providing further *continuity* in the process and by presenting back the information that the user entered in a different layout, we are making the *connection* between what the user has entered and what the system has understood and confirmed, providing comfort to the user that their request will be fulfilled.
