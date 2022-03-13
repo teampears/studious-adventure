@@ -3,7 +3,7 @@ ENSE271 - Activities 2 and 3
 
 ## Low Fidelity Prototypes
 
-[Low Fidelity Prototype Review](Low%20Fidelity%20Prototype/Lofi-prototype-review.md)
+[Low Fidelity Prototype Review](Low%20Fidelity%20Prototypes/Lofi-prototype-review.md)
 
 ## High Fidelity Prototypes
 
