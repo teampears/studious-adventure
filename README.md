@@ -1,4 +1,5 @@
 # studious-adventure
+
 # Project Charter
 ## Project Members
 * Daniil Aleshechkin
