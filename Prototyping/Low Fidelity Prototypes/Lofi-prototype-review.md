@@ -12,6 +12,6 @@ In our designs, signifiers are often used to give the user an indication of what
 
 In our prototypes, we tried to keep the user updated on what they do. For instance, when the user clicks the Confirm button at the end of placing an order page, they will be directed to a confirmation page where they will be able to see their order details and some instructions for delivery/pickup. If we were to give no information when the user clicks the Confirm button, then users will be confused, wondering if the order was placed or not, should they reorder? Leaving users confused is not what human centered design is aiming for.
 
-[Calendar Feedback](Dans%20designs/Calendar-confirmation-lofi-screenshot.png)
+[Calendar Feedback](Bens%20designs/Calendar-confirmation-lofi-screenshot.png)
 
 Further more, as *feedback* from the system is available, the *closure* is extended providing further *continuity* in the process and by presenting back the information that the user entered in a different layout, we are making the *connection* between what the user has entered and what the system has understood and confirmed, providing comfort to the user that their request will be fulfilled.
