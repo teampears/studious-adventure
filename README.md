@@ -13,8 +13,6 @@ Activity 3 consisted of *brainstorming and convergence* where one [high-fidelity
 ## Activity 4
 Activity four focuses on building the minimal viable product and delivering it to the customer for deployment.
 
----
-
 # Documentation
 
 A [project charter](Documentation/ProjectCharter.md) was created defining the problem statement and presenting information given by the client.
