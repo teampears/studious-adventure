@@ -11,7 +11,7 @@ Activity 2 consisted of *brainstorming and divergence* where multiple [low-fidel
 Activity 3 consisted of *brainstorming and convergence* where one [high-fidelity prototype](Prototyping/High%20Fidelity%20Prototype/) was created to converge on the ideas explored through the low-fidelity prototypes and feedback received from the customer. Mobile and desktop implementations were considered and the user story mapping was updated with new information from recent check in.
 
 ## Activity 4
-Activity four focuses on building the minimal viable product and delivering it to the customer for deployment.
+Upcoming activity 4 focuses on *building* the minimal viable product and delivering it to the customer for deployment.
 
 # Documentation
 
