@@ -1,7 +1,7 @@
 # High Fidelity Prototype Review
 ---
 
-We used affordances to make it easy to book a hamper. The UI to book a hamper is designed to look like a [calendar](ReviewImages/calendar.png) which most people are familiar with. In addition, we highlighted the days which they are unable to book. This allows them to plan their bookings easier.
+We used affordances to make it easy to book a hamper. The UI to book a hamper is designed to look like a [calendar](ReviewImages/Calendar.png) which most people are familiar with. In addition, we highlighted the days which they are unable to book. This allows them to plan their bookings easier.
 
 In addition we used symbols to indicate the [status](ReviewImages/Confirm.png) of a booking. This will assure their booking has been approved and confirmed, and also lets the users know at a glance whether something is wrong.
 
