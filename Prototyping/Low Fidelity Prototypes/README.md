@@ -1,5 +1,5 @@
 # Low Fidelity Prototype Review
----
+
 In consideration of our designs, discoverability was a focus. We want to encourage the use of a service by decreasing the factors that could lead to folks becoming overwhelmed with the user interface. For example, in our designs we have combined 3 different concepts with a focus on discoverability; mapping; signifiers; and feedback.
 
 Displaying a full month's calendar, by enclosing the two-week allowable booking time frame in a shaded area we are using gestalt principles to provide the user with information. The calendar is a signifier of the available days which are available for booking, rather than being presented in a tabular form, providing the user with a familiar and comfortable interface.
