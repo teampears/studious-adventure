@@ -1,13 +1,9 @@
 # Prototypes
-ENSE271 - Activities 2 and 3
-
----
+#### ENSE271 - Activities 2 and 3
 
 ## Low Fidelity Prototypes
 
 [Low Fidelity Prototype Review](Low%20Fidelity%20Prototypes/README.md)
-
----
 
 ## High Fidelity Prototypes
 
