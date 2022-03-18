@@ -59,6 +59,7 @@
   - dietary
 - Selecting times for delivery and pick ups online
 ---
+
 ### Checkpoint 1.2
 09.02.22
 #### Key Components to the design:
@@ -72,7 +73,26 @@
 #### Agencies' booking process:
   - Similar to the process chronic and episodic users go through, just they book a bulk/ batch
   - "Just a batch registration"
+
+### Observational Confirmations
+* #### What is the main problem?
+	* booking is not easy or transparent to users
+* #### What "experiences" (features and functionality) are most important
+	* ongoing access
+	* being able to view availability, options, times, confirmation that the booking will happen at that time and place
+* #### What are the specific features that are important now (for MVP 1) vs what could potentially wait for a future version?
+	* ### easy booking
+	* ## confirmation of delivery
+		* wait on: availability and food options
+* #### Who is the main beneficiary (and who are the ones that may also benefit from your design ideas)?
+	* episodic users - northstar customers
+		* people who are entering food insecurity
+	* chronic users - carryover customers
+* #### And any Q/A
+	* what does the organizational workflow look like
+	* how far in advance should booking be allowed
 ---
+
 ### Checkpoint 2.1
 01.03.22
 #### Feedback given for lofis
@@ -91,6 +111,7 @@
   - Income source is far more important than income ammount
   - Household names and age is important to track movement as well as get a good picture for hamper composition
 ---
+
 ### Checkpoint 3.1
 16.03.22
 #### Misc additional new information
