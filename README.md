@@ -19,4 +19,4 @@ A [project charter](Documentation/ProjectCharter.md) was created defining the pr
 
 [Periodic checkins](Documentation/Client-checkin-summary-notes.md) allowed for the team to iteratively build upon the feedback provided by the client to best develop a solution to fit their needs.
 
-Reviews for each prototyping phase provide the details of the design concepts learned throughout the course of the project implemented in each of the [low-fidelity](Prototyping/Low%20Fidelity%20Prototypes/Lofi-prototype-review.md) and [high-fidelity](Prototyping/High%20Fidelity%20Prototype/Hifi-prototype-review.md) prototypes.
+Reviews for each prototyping phase provide the details of the design concepts learned throughout the course of the project implemented in each of the [low-fidelity](Prototyping/Low%20Fidelity%20Prototypes/) and [high-fidelity](Prototyping/High%20Fidelity%20Prototype/) prototypes.
