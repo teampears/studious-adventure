@@ -92,7 +92,7 @@
   - Household names and age is important to track movement as well as get a good picture for hamper composition
 ---
 ### Checkpoint 3.1
-15.03.22
+16.03.22
 #### Misc additional new information
 - Canada food guide for categories of food included in the basket
   - potential to add an education piece on this
