@@ -96,8 +96,8 @@
 #### Misc additional new information
 - Canada food guide for categories of food included in the basket
   - potential to add an education piece on this
-  - expectation management
-    - what the user would see as available vs what was delivered
+- expectation management
+  - what the user would see as available vs what was delivered
 #### Hifi Feedback
 - landing page - simplify flow
 - age missing for household members
