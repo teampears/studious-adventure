@@ -1,5 +1,5 @@
 # Project Charter
-[Additional information](AboutRFB.md) can be found here.
+Additional information from John Bailey regarding the project can be found [here](AboutRFB.md).
 
 ## Project Members
 * Daniil Aleshechkin
