@@ -5,7 +5,7 @@ Over the lifecycle of the project, various aspects of the design process have be
 Activity 1 encompassed the *observe & frame* stage consisting of meeting with the stakeholders and exploring the problem through [mapping activities](Mapping%20Activities/) such as empathy mapping, customer jounery mapping, and userstory mapping.
 
 ## Activity 2
-Activity 2 consisted of *brainstorming and divergence* where multiple [low-fidelity prototypes](Prototypeing/Low%20Fidelity%20Prototypes/) were created to get a sense of the customer's needs and think openly about the problem.
+Activity 2 consisted of *brainstorming and divergence* where multiple [low-fidelity prototypes](Prototyping/Low%20Fidelity%20Prototypes/) were created to get a sense of the customer's needs and think openly about the problem.
 
 ## Activity 3
 Activity 3 consisted of *brainstorming and convergence* where one [high-fidelity prototype](Prototyping/High%20Fidelity%20Prototype/) was created to converge on the ideas explored through the low-fidelity prototypes and feedback received from the customer. Mobile and desktop implementations were considered.
