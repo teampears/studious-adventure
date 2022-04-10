@@ -44,7 +44,7 @@ The site will be developed, deployed, and managed using WordPress as a Content M
 * Number of client types was restricted to 2 for the purpose of the MVP
 
 ## Summary of Mapping Activities
-![User Journey](https://mermaid.live/view#pako:eNqFkU1rwzAMhv-K8LljsLEPfGzTncY22msuxlYSNYkVFKdQSv_77KRZGaydT7b0vHol-agsO1Ra7XgQj4fcAwQKDcLmbQmfviGPsGSuyZcp16MNxB4yLGImRdL5Ei4oaqygSWkNDxpWlbAnu4B1Rz07sjP9jkY8FMwOuEt4r-FR_8JmmxW3nZGLD9l66O4zoT3ehUoGDU83jM7qycpWTBb7UXENDNQm4vlKzbmrDyw5kAk_fW2xianLNP8V2KBFGuG5whjZxw2yL0ja8xZfbgw3K_rRe_J9_ZNXC9VirEku_vMx6XMVKmwxVzpenZE6V7k_RW7oXBxr7SiwKB1kwIUyQ-Dtwdv5PTEZmVJMOwVP352rw7c)
+![User Journey](https://mermaid.ink/img/pako:eNqFkU9rwzAMxb-K8LljsLE_-NimO41ttNdcjK0kahIrKE6hlH732WmyMlg7n4zf7-lJ8lFZdqi02vEgHg-5BwgUGoTN2xI-fUMeYclcky-T1qMNxB4yLKKSXtL5Ei4oeqygSbKGBw2rStiTXcC6o54d2Zl-RyMeCmYH3CW81_Cof2FzzIrbzsglh2w9dPeZ0B7vQiWDhqcbQZP7HGUrJov96LgGBmoT8Xyl5tzVB5YcyISfvrbYROkyzX8FNmiRRniuML7s4wbZFyTttMWXG8PNjn7MPue-_smrhWox1iQX__mY_LkKFbaYKx2vzkidq9yfIjd0Lo61dhRYlC5M0-NCmSHw9uCt0kEGnKGMTCmmnajTNyJLxE0)
 
 ## User Story Mapping
 
