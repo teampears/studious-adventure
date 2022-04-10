@@ -44,13 +44,36 @@ The site will be developed, deployed, and managed using WordPress as a Content M
 * Number of client types was restricted to 2 for the purpose of the MVP
 
 ## Summary of Mapping Activities
-![User Journey](https://mermaid.ink/img/pako:eNqFkU9rwzAMxb-K8LljsLE_-NimO41ttNdcjK0kahIrKE6hlH732WmyMlg7n4zf7-lJ8lFZdqi02vEgHg-5BwgUGoTN2xI-fUMeYclcky-T1qMNxB4yLKKSXtL5Ei4oeqygSbKGBw2rStiTXcC6o54d2Zl-RyMeCmYH3CW81_Cof2FzzIrbzsglh2w9dPeZ0B7vQiWDhqcbQZP7HGUrJov96LgGBmoT8Xyl5tzVB5YcyISfvrbYROkyzX8FNmiRRniuML7s4wbZFyTttMWXG8PNjn7MPue-_smrhWox1iQX__mY_LkKFbaYKx2vzkidq9yfIjd0Lo61dhRYlC5M0-NCmSHw9uCt0kEGnKGMTCmmnajTNyJLxE0)
+The customer journey map shown below summarizes our findings from the [mapping activities](Mapping%20Activities/) previously completed. Affinity mapping built the basic structure of user needs, describing the actions of the user while empathy mapping envisioned the client's mindset and emotions as they step through the actions to use the service. Keypoints from both the affinity and empathy mapping activies where selected and set to a timeline to visualize the customers end to end experience. The customer journey map effectively allowed  the team to build a unified mental model of the experience to be shared with the RFB stakeholder to confirm that the vision was shared.
+<!-- journey
+  title RFB Online Booking
+  section Onboard
+      Profile creation: 2: Chronic, Episodic
+      Learn food options: 3: Episodic
+  section Browse and Compare
+      Login: 3: Chronic, Episodic
+      Compare food choices: 5: Episodic
+  section Availability
+      Pickup/Drive-thru: 5: Chronic, Episodic
+      Compare times: 6: Chronic, Episodic
+  section Book
+      Select options: 6: Chronic, Episodic
+      Receive confirmation: 7: Chronic, Episodic
+      Receive selections: 8: Chronic, Episodic -->
+
+![User Journey](https://mermaid.ink/img/pako:eNqNkk1PwzAMhv-KlfMQEoiBcmMfnJBA27WXLHFX0zau3HSomvbfSbZ2CGkDcori580TW9kryw6VVh_cicc-8wCBQoWwepnBm6_II8yYS_LbVGvRBmIfKxs24tJRWu_COcWQFTSpruFOw7wQ9mQnsGyoZUd2pF_RiIec2QE3CW813Osf2OiZCX-2CMY7mHPdGMHzJbwlf8xd9QyJk8kWTBaj6eGy6XlnqDIbqij057bIll1zuxDa4U0opDum__QFqpNoegU99xbHOkbXWMXT73FMf9Gs0GJ8EFj2OUk9DPzxH4n2aDkZni7waqJqjDeSiz9in9KZCgXWmCkdt85ImanMHyLXNc4EXDoKLErnpmpxokwXeN17q3SQDkdoQWYrph6owxewv9FC)
 
 ## User Story Mapping
+Building on the key actions from the affinity diagraming activities, these were expanded into user stories along with the associated user experience activities to define the minimimal viable product. The userstory map evolved over the course of the project lifecycle to capture ideas developed at the client checkpoints for additional features and future integrations, effectively building an end to end roadmap through MVPs and future opportunities.
 
 ## Minimum Viable Product Selection
 
 ## Summary of Prototyping Activities
+The use double diamond model encouraged the team to ensure that the right problem was solved through the process of diverging and exploring multiple alternatives then converging on a solution.
+*Brainstorming and divergence* where multiple [low-fidelity prototypes](Prototyping/Low%20Fidelity%20Prototypes/) were created to get a sense of the customer's needs and think openly about the problem.
+*Brainstorming and convergence* where one [high-fidelity prototype](Prototyping/High%20Fidelity%20Prototype/) was created to converge on the ideas explored through the low-fidelity prototypes and feedback received from the customer.
+
+Displaying a full month's calendar, by enclosing the two-week allowable booking time frame in a shaded area we are using gestalt principles to provide the user with information. The calendar is a signifier of the available days which are available for booking, rather than being presented in a tabular form, providing the user with a familiar and comfortable interface.
 
 ---
 # Project Results
