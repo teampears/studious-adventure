@@ -21,7 +21,7 @@ Booking is not easy for clients. There is a need for clients to be able to book 
 - Designed “guards” with respect to managing limits regarding the number of food hampers produced daily, e.g. real-time adjustments in total hampers booked would need to be guarded against overbooking
 - System support will be provided by a third party. The Regina Food Bank does not have an in-house IT/IS team so any troubleshooting etc. will be done by an outside vendor
 
-# 2.0 Project Planning
+# Project Planning
 In the first pahse of the project, when we were first introduced to the probelm and opportunity we decided that the episodic clients, who may be new to seeking assistance from a service such as the Food Bank, would be the northstar client for this project. As these folks may not be familiar with the process, it is important to reduce the severity of the barriers (onboarding) to them as much as possible. And the carryover client would include chronic clients who require more regular assistance. As these clients are already familiar with the physical process of booking. They will now benefit from simpler and more easy to manage bookings.
 During this project number of assumptions were made. For instance, we assumed that the Regina Food Bank (RFB) has only two major types of clients, episodic and chronic clients. This assumption somewhat made things little eaiser and helped us focusing on the requirments and needs of these two groups of clients. Also, we
 
@@ -43,9 +43,15 @@ The site will be developed, deployed, and managed using WordPress as a Content M
 * Some information collected is only to be used for statistical analysis to aid in advocacy efforts
 * Number of client types was restricted to 2 for the purpose of the MVP
 
+## Summary of Mapping Activities
+
+[![User Journey](https://mermaid.ink/img/pako:eNqFkU1rwzAMhv-K8LljMNZt-NiPncY22msuxlYSLYkVFGdQSv_7FJKsUNYuJ5P3kR7JPhrPAY01X9xLxEMWQb9EqUbYva7gI9YUEVbMFcViTDv0iTjCBnPNxn8An8I5aZUXdENs4cHCuhSO5BewbanjQH6m39BJhJw5ALcD3ll4tBfYLFpz0zo5m8hXfXu_EfrGu1RKb-HphmqqHmW-ZPKosqW9CiZqJuJKz3mudyw4kUu_k-2x1ui80fLGWDv0qAuA55iTNNOdPf8rHR16umzUzYGKX_5oYxamQRVR0Oc-DtWZSSU2mBmrx-CkykwWT8r1bdCttoESi7G5qztcGNcn3h-iNzZJjzO0IVeIaybq9AP3SMRX)](https://mermaid.live/edit#pako:eNqFkU1rwzAMhv-K8LljMNZt-NiPncY22msuxlYSLYkVFGdQSv_7FJKsUNYuJ5P3kR7JPhrPAY01X9xLxEMWQb9EqUbYva7gI9YUEVbMFcViTDv0iTjCBnPNxn8An8I5aZUXdENs4cHCuhSO5BewbanjQH6m39BJhJw5ALcD3ll4tBfYLFpz0zo5m8hXfXu_EfrGu1RKb-HphmqqHmW-ZPKosqW9CiZqJuJKz3mudyw4kUu_k-2x1ui80fLGWDv0qAuA55iTNNOdPf8rHR16umzUzYGKX_5oYxamQRVR0Oc-DtWZSSU2mBmrx-CkykwWT8r1bdCttoESi7G5qztcGNcn3h-iNzZJjzO0IVeIaybq9AP3SMRX)
+
 ## User Story Mapping
 
 ## Minimum Viable Product Selection
+
+## Summary of Prototyping Activities
 
 ---
 # Project Results
@@ -68,7 +74,7 @@ The site will be developed, deployed, and managed using WordPress as a Content M
 
 ---
 # WordPress Development
-Key points:
+**Key points:**
 - Plugins were found to be problematic, majority of features behind paywalls
 - Majority of scheduling plugins baked in CRM type functionality with minimal flexibility in regards to connecting to external CRM(Link2Feed)
 - Longevity and support of plugins was questionable
