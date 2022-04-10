@@ -23,7 +23,7 @@ Booking is not easy for clients. There is a need for clients to be able to book 
 
 # Project Planning
 In the first pahse of the project, when we were first introduced to the probelm and opportunity we decided that the episodic clients, who may be new to seeking assistance from a service such as the Food Bank, would be the northstar client for this project. As these folks may not be familiar with the process, it is important to reduce the severity of the barriers (onboarding) to them as much as possible. And the carryover client would include chronic clients who require more regular assistance. As these clients are already familiar with the physical process of booking. They will now benefit from simpler and more easy to manage bookings.
-During this project number of assumptions were made. For instance, we assumed that the Regina Food Bank (RFB) has only two major types of clients, episodic and chronic clients. This assumption somewhat made things little eaiser and helped us focusing on the requirments and needs of these two groups of clients. Also, we
+During this project number of assumptions were made. For instance, we assumed that the Regina Food Bank (RFB) has only two major types of clients, episodic and chronic clients. This assumption somehow made things little eaiser and helped us focusing on the requirments and needs of these two groups of clients. 
 
 # Clients or Customers
 
@@ -56,13 +56,17 @@ The site will be developed, deployed, and managed using WordPress as a Content M
 # Project Results
 >> Headings for keypoints to be made, headings do not neccessarily have to stay in final report
 ## Likes / Dislikes
-
+Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report. 
+Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry. 
+liked that we were given enough time to plan for the prject which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project. 
+Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing. 
 ## What went well
+
 
 ## What didn't go well
 
 ## Prototype to WP success
-
+Due to the fact that we did not use WordPress customize themes we were succefull in translating our hight fidelity prototypes to WordPress reality. we were able to use similar layout, images and colrs to the one we had in out prototypes which somehow made the WordPress experince easier and faster.  
 ## PCD influences in designs
 
 ## What should be done similarily in the future
