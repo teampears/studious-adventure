@@ -132,3 +132,18 @@
 - 5-10% no shows, visually showing it on profiles allows for potential escalation for repeated no shows
     - analytics on FAQ/Support
     - tie to CRM for line of sight on potential repeat / high volume questions or issues
+---
+
+### Checkpoint 4.1
+6.04.22
+#### Demo feedback 
+- The overall look of the website looks good. 
+- concerned about mobile version vs desktop version
+- add an explanation to the user when asking about the number of household members
+	- make sure that the user know that the number of household members doesn't include the one who started the registration.
+	- the one started the registartion is already registered 
+- give users a time spot for answering questions 
+	- for example, "We will get back to you in X amount of hours"
+	- Good to give people the opportunity to ask questions
+
+  
