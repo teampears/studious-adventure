@@ -1,4 +1,9 @@
 # 1.0 Business need/opportunity
 
-The ongoing effects of the pandemic have created an increased need for support in our community, this is coupled with inflation that is particularly acute in its impact on non-discretionary items, food, rent, etc. have created demand growth that is not leveling off
+The ongoing effects of the pandemic have created an increased need for support in our community, this is coupled with inflation that is particularly acute in its impact on non-discretionary items, food, rent, etc. have created demand growth that is leveling up. While the food bank has the logistic capacity to meet the need on the supply end the surge in demand has in many cases overwhelmed the organization’s capacity to book orders. Hight wait times and increasing call drops are presenting an increasing barrier to service.
+The opportunity here is to design, prototype, and (likely later) explore the development of a solution that allows clients to book hamper 24/7. Thus, eliminating barriers to access and potentially freeing up time to grow the overall impact of the Food Bank on the lives of people facing food insecurity.
 
+# 2.0 Project Planning 
+
+In the first pahse of the project, when we were first introduced to the probelm and opportunity we decided that the episodic customers, who may be new to seeking assistance from a service such as the Food Bank, would be the northstar customer for this project. As these folks may not be familiar with the process, it is important to reduce the severity of the barriers (onboarding) to them as much as possible. And the carryover customer would include chronic customers who require more regular assistance. As these customers are already familiar with the physical process of booking. They will now benefit from simpler and more easy to manage bookings. 
+During this project number of assumptions were made. For instance, we assumed that the Regina Food Bank (RFB) has only two major types of customers, episodic and chronic customers. This assumption somewhat made things little eaiser and helped us focusing on the requirments and needs of these two groups of customers. Also, we 
