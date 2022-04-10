@@ -4,4 +4,4 @@ A site backup has been provided through the use of WPvivid Backup, a plugin desi
 ## Migrating
 The entirety of the deployed site can be migrated from the backup file. Ensure WPvivid Backup is installed and navigate to the plugin page.
 
-![restore](/supporting/docs-restore.png)
+![restore](Site%20Deployment/supporting/docs-restore.png)
