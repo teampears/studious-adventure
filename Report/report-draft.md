@@ -56,19 +56,19 @@ The site will be developed, deployed, and managed using WordPress as a Content M
 # Project Results
 >> Headings for keypoints to be made, headings do not neccessarily have to stay in final report
 ## Likes / Dislikes
-Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report. 
-Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry. 
-liked that we were given enough time to plan for the prject which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project. 
-Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing. 
+- Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report. 
+- Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry. 
+- Liked that we were given enough time to plan for the prject which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project. 
+- Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing. 
 ## What went well
 
 
 ## What didn't go well
 
 ## Prototype to WP success
-Due to the fact that we did not use WordPress customize themes we were succefull in translating our hight fidelity prototypes to WordPress reality. we were able to use similar layout, images and colrs to the one we had in out prototypes which somehow made the WordPress experince easier and faster.  
+Due to the fact that we did not use WordPress custom themes we were succefull in translating our hight fidelity prototypes to WordPress reality. we were able to use similar layout, images and colrs to the one we had in out prototypes which somehow made the WordPress experince easier and faster.  
 ## PCD influences in designs
-
+The topics we learned about People-centered design helped us in implementing this design project. While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we empthesized on the importance of gibving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks of what they do. we tried to add signifiers when appropriate to make the user experience more delightful. 
 ## What should be done similarily in the future
 
 ## What should be done differently in the future
