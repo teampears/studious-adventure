@@ -34,7 +34,7 @@ The northstar client is episodic users who are new to having food insecurities. 
 Chronic clients who are already onboarded and are familiar with the proccess of booking will appreciate the extra ease to book hampers, though these users would be familiar with the previous method of booking. Agencies such as Salvation Army requiring bulk booking would also be included in carryover customers. Web based booking tightly coupled to the Regina Food Bank's CRM will allow for increased ease of booking.
 
 ## Assumptions
-The site will be developed, deployed, and managed using WordPress as a Content Management System.A minimum viable product will be delivered at the end of this project, more so following the form of an exploration of feasibility study. From this a fully featured product may be developed and deployed in a future opportunity.
+The site will be developed, deployed, and managed using WordPress as a Content Management System. A minimum viable product will be delivered at the end of this project, more so following the form of an exploration of feasibility study. From this a fully featured product may be developed and deployed in a future opportunity.
 
 ## Constraints
 * WordPress as the Content Management System
@@ -79,16 +79,21 @@ Displaying a full month's calendar, by enclosing the two-week allowable booking 
 # Project Results
 >> Headings for keypoints to be made, headings do not neccessarily have to stay in final report
 ## Likes / Dislikes
-
+- Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report.
+- Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry.
+- Liked that we were given enough time to plan for the prject which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project.
+- Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing.
 ## What went well
+
 
 ## What didn't go well
 
 ## Prototype to WP success
-
+Due to the fact that we did not use WordPress custom themes we were succefull in translating our hight fidelity prototypes to WordPress reality. we were able to use similar layout, images and colrs to the one we had in out prototypes which somehow made the WordPress experince easier and faster.
 ## PCD influences in designs
-
+The topics we learned about People-centered design helped us in implementing this design project. While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we empthesized on the importance of gibving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks of what they do. we tried to add signifiers when appropriate to make the user experience more delightful.
 ## What should be done similarily in the future
+
 
 ## What should be done differently in the future
 
