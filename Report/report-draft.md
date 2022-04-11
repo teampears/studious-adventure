@@ -1,4 +1,8 @@
 # Business need
+The Regina Food Bank is the oldest food bank in Canada. The user base of the organization comes from all over the city and ranges from those who request services only once or twice to those who require services on an ongoing basis. The current system for an individual or family to request service is to phone in to a centralized call center and have a team member set up an appointment in our booking software.
+
+Food insecurity alone is a daunting issue to tackle, while the Food Bank provides support to those in need additional barriers only hinder an individuals capacity to change their situation. As John put it, the goal of the Food Bank is to solve food insecurity, not to provide security and part of that solution is reducing the number and size of the barriers that folks suffering from food insecurity face.
+
 The ongoing effects of the pandemic have created an increased need for support in our community, this is coupled with inflation that is particularly acute in its impact on non-discretionary items, food, rent, etc. have created demand growth that is leveling up. While the food bank has the logistic capacity to meet the need on the supply end the surge in demand has in many cases overwhelmed the organization’s capacity to book orders. Hight wait times and increasing call drops are presenting an increasing barrier to service.
 The opportunity here is to design, prototype, and (likely later) explore the development of a solution that allows clients to book hamper 24/7. Thus, eliminating barriers to access and potentially freeing up time to grow the overall impact of the Food Bank on the lives of people facing food insecurity.
 
@@ -10,19 +14,35 @@ The system provisioned by L2F can import and export data and can integrate throu
 # Challenge
 A web based application tightly coupled to the Regina Foodbank's CRM will significantly improve the quality of service that the Regina Foodbank is able to provide and simplify statistical data collection for improved advocacy work.
 
-Booking is not easy for clients. There is a need for clients to be able to book a hamper from anywhere at anytime with assurance that they will be able to get their hamper. Long wait times for phone booking has lead to an increase in the call drop rate as a high number of clients utilize pay-as-you-go phones with expensive by the minute usage.
+One of the largest barriers is the capability to book a hamper, and to know with confidence that it will be available, without spending time on the phone waiting for help. Long wait times for phone booking has lead to an increase in the call drop rate as a high number of clients utilize pay-as-you-go phones with expensive by the minute usage.
+
+# Stakeholders
+## Internal
+Project Sponsor - Dr. Tim Maciag
+Team Pears Members - Ben, Daniil, Kawthar
+
+## External
+Customer - John Bailey (CEO Regina Foodbank)
+Clients - Community served by the Regina Foodbank
 
 ## High-level guidelines, principles, constraints, & assumptions
+Provided by the Project Sponsor
+
 **Design approach:** Design Thinking (Agile)/Fast Feedback Cycle
+
 **License:** Creative Commons Share & Share Alike (CC BY-SA 4.0)
-**Technology/Programming environment:** StoriesOnBoard (Tim/Adam will be creating user accounts), Adobe XD, WordPress, Local by Flywheel, GitHub (public repository required)
+
+**Technology/Programming environment:** StoriesOnBoard, Adobe XD, WordPress, Local by Flywheel, GitHub
+
 **Initial design guides**
 - A clear and simple user interface with a focus on a design that works in low bandwidth environments
 - Designed “guards” with respect to managing limits regarding the number of food hampers produced daily, e.g. real-time adjustments in total hampers booked would need to be guarded against overbooking
 - System support will be provided by a third party. The Regina Food Bank does not have an in-house IT/IS team so any troubleshooting etc. will be done by an outside vendor
 
 # Project Planning
-## Clients or Customers
+## Clients
+Some folks may not be familiar with the booking process, therefore it is important to reduce the severity of the barriers (onboarding). Potential clients could include chronic clients who require more regular assistance, and episodic clients who may be more transient in their use. In both cases, some of these customers may already be familiar with the existing process of booking but stand to benefit from the simplicity and assurance a web based booking implementation would provide.
+
 ### Northstar
 The northstar client is episodic users who are new to having food insecurities. The amount of clients the foodbank has had to serve has increased significantly due to the pandemic, and inflation - new clients are not familiar with the platform and have been putting increasing strain on the phone booking lines.
 
@@ -69,9 +89,11 @@ The use double diamond model encouraged the team to ensure that the right proble
 
 The *divergence* phase took place with multiple [low-fidelity prototypes](Prototyping/Low%20Fidelity%20Prototypes/) to get a sense of the customer's needs and think openly about the problem by exploring multiple alternatives. In the *convergence* phase one [high-fidelity prototype](Prototyping/High%20Fidelity%20Prototype/) was created to narrow the focus of the ideas gained through alternatives explored during the low-fidelity prototype activity accompanied by feedback received from the RFB stakeholder.
 
-In the calendar display, by enclosing the two-week allowable booking time frame in a shaded area the gestalt principles helps to provide the user with additional information. The shading within the calendar is a signifier of the days until their next booking could be placed, rather than being presented in a tabular form, providing the user with a familiar and comfortable interface.
+In the calendar display, by enclosing the folowwing two weeks of a selected date in a shaded area the gestalt principles helps to provide the user with additional information. Using the law of uniform connectedness, the shading within the calendar is a signifier of the days until their next booking could be placed, clearly communicating days in the near future that a new booking could not be placed within that time frame.
 
 In the page similar questions are grouped together for continuity. The gestalt law of common region provides structure to help the user to understand the relationships which is further emphasized by ordering the questions chronologically in the order they may arise in the user's experience.
+
+A focus was placed on minimizing extrenous design details to maintain useability in a low bandwidth environment. Under the assumption that most users would either be paying for low-capacity data mobile plans or using public wifi, a high bandwidth design with lots of graphics and resourse intensive plugins or scripting could be problematic.
 
 ---
 # Project Results
@@ -102,6 +124,8 @@ While planning, brainstorming and implementing this project, topics learnt in cl
 
 ## What should be done differently in the future
 Future projects should begin with a team alignment on expectations regarding team member's: roles, time allocated to complete the deliverables, expected delays due to busy times, and frequency of communication. Understanding of the logistic requirements to meet eachothers, and the clients expectations and the effective communication of blockers or delays is paramount to the success of a project. This alignment, done at regular intervals could have improved the productivity of the team.
+
+Testing with real users on the type of devices they would commonly use would have been beneficial, many other teams focused on desktop implementations while we focused on a mobile implementation and it would have been interesting to see the user test results from both. Additionally, internal testing is time consuming and with the resources are team had proved to be daunting especially in the build phase. While the short demos during the stakeholder checkpoints provided some information, it was purely speculative as that information was not gained through testing of the actual prototypes.
 
 <!-- As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future that we would only use one of them when designing a software. As well, -->
 
