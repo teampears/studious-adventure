@@ -147,18 +147,15 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
 
 ## Future opportunities and design ideas
 <!-- TODO point form to elaborate on -> (added some points) -->
-- Canada food guide for categories of food included in the basket
-  - potential to add an education piece on this
-- expectation management
-  - what the user would see as available vs what was delivered
-- 5-10% no shows, visually showing it on profiles allows for potential escalation for repeated no shows
-  - analytics on FAQ/Support
-  - tie to CRM for line of sight on potential repeat / high volume questions or issues
-- Maybe there is a potential of adding a chatbot to the website
-  - Users can get the needed help faster
-- Adding an optional feature for placing automatic bookings/orders
-  - for example, every 2 weeks a booking order will be placed and a notification is sent to the user reminding them of their order
-  - users can cancel this anytime or change their default info
+To accompany the education piece on the Regina Foodbank, their efforts, and drive to help meet the dietary needs of the community that they serve, additional information from the Canada Food Guide could be added to the descriptions of each hamper. This information could help clients make an informed decision on their hamper selection.
+
+To ensure the clients are satisfied with the service, a form of expectation management could be implemented by asking for feedback on the experience as well as whether the selection provided in the hampers met their expectations. Confirmation of pickup or delivery could be tracked in the CRM and connected to the status of previous bookings. This could allow for service side escalation of repetitive no-shows or failed delivery attempts.
+
+Analytics on the most frequently submitted client questions could be tracked in the CRM to gain line of sight on potential repeat or high volume questions, triggering various actions. These actions could range from updating the FAQ to provide clients with an answer, to making UX changes in future iterations.
+
+Agencies may find it helpful to set automatic orderplacing for a base number of clients, and additionally add additional orders if required by an influx of clients to their services. This would streamline their operation as well as it would reduce the management requirement to only changes in bookings, rather than the entirety of the bookings.
+
+An AI chatbot may be added to provide users with information on frquently asked questions tying into the analytics of support previously mentioned.
 ---
 # WordPress Development
 The implementation of plugins and themes were found to be problematic, with the majority of features behind paywalls that disabled all but the most basic functionality. Scheduling plugins baked in CRM type functionality with minimal flexibility in regards to connecting to an external CRM. WordPress focuses on a framework for content creators and bloggers alike and the majority of these features are not applicable to a static site used for booking appointments.
