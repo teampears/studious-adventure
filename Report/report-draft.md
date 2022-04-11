@@ -154,7 +154,7 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
 - Maybe there is a potential of adding a chatbot to the website
   - Users can get the needed help faster
 - Adding an optional feature for placing automatic bookings/orders 
-  - for example, every 2 weeks a booking order will be placed and a nofication sent to the user reminding them of their order 
+  - for example, every 2 weeks a booking order will be placed and a notification is sent to the user reminding them of their order 
   - users can cancel this anytime or change their default info 
 ---
 # WordPress Development
@@ -165,3 +165,8 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
 - Longevity and support of plugins was questionable
   - potential for future inhouse support was mentioned but likely to be 3rd party, train on plugin developed rather than rely on a 2nd external supporter for plugin support
   - This allows for streamlining of support services
+  - frequent theme and plugin update
+    - might experience broken links or site crash
+- plugins can conflict with each other
+  - It is not unheard of for plugins to have compatibility issues with other plugins on the site. 
+    - Could result in broken functionality or even your site going down.
