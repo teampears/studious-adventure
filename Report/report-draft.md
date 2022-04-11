@@ -5,10 +5,12 @@ Food insecurity alone is a daunting issue to tackle, while the Food Bank provide
 
 The ongoing effects of the pandemic have created an increased need for support in our community, this is coupled with inflation that is particularly acute in its impact on non-discretionary items, food, rent, etc. have created demand growth that is leveling up. While the food bank has the logistic capacity to meet the need on the supply end the surge in demand has in many cases overwhelmed the organization’s capacity to book orders. Hight wait times and increasing call drops are presenting an increasing barrier to service.
 
-The opportunity here is to design, prototype, and (likely later) explore the development of a solution that allows clients to book hamper 24/7. Thus, eliminating barriers to access and potentially freeing up time to grow the overall impact of the Food Bank on the lives of people facing food insecurity.
+<!-- The opportunity here is to design, prototype, and (likely later) explore the development of a solution that allows clients to book hamper 24/7. Thus, eliminating barriers to access and potentially freeing up time to grow the overall impact of the Food Bank on the lives of people facing food insecurity. -->
+
+<!-- This is repeated down in the opportunity section ^ -->
 
 # Opportunity
-The Regina Food Bank uses a Customer Relationship Management (CRM) tool for food provisioning built by a company called Link2Feed (L2F).  L2F has signed an exclusive engagement with Food Banks Canada to manage CRM activities. At the beginning of the pandemic, L2F rushed a product to launch that allowed for online scheduling, where the Regina Food Bank was part of the pilot group. Ultimately the project failed because its application was better suited to real-time sign up (i.e. when clients were already inline) and was not a viable solution for advanced booking.
+The Regina Food Bank uses a Customer Relationship Management (CRM) tool for food provisioning built by a company called Link2Feed (L2F). L2F has signed an exclusive engagement with Food Banks Canada to manage CRM activities. At the beginning of the pandemic, L2F rushed a product to launch that allowed for online scheduling, where the Regina Food Bank was part of the pilot group. Ultimately the project failed because its application was better suited to real-time sign up (i.e. when clients were already inline) and was not a viable solution for advanced booking.
 
 The system provisioned by L2F can import and export data and can integrate through an application programming interface (API). The opportunity here is to design, prototype, and (likely later) explore the development of a solution that allows clients to book hamper pick-ups 24/7. Thus, eliminating barriers to access and potentially freeing up time to grow the overall impact of the Food Bank on the lives of people facing food insecurity.
 
@@ -85,14 +87,18 @@ Building on the key actions from the affinity diagraming activities, these were 
 
 ## Minimum Viable Product Selection
 <!-- TODO -->
+The website we produced is an MVP (Minimum Viable Product) because it has been developed with sufficeint features to satisfy our early users. Yet the final, full featured product to be produced after crucial feedback from the target audience/users which will help making the product even better in the next developemnt cycle. 
+
+
+
 ## Summary of Prototyping Activities
 The use double diamond model encouraged the team to ensure that the right problem was solved through the process of diverging and exploring multiple alternatives then converging on a solution.
 
 The *divergence* phase took place with multiple [low-fidelity prototypes](Prototyping/Low%20Fidelity%20Prototypes/) to get a sense of the customer's needs and think openly about the problem by exploring multiple alternatives. In the *convergence* phase one [high-fidelity prototype](Prototyping/High%20Fidelity%20Prototype/) was created to narrow the focus of the ideas gained through alternatives explored during the low-fidelity prototype activity accompanied by feedback received from the RFB stakeholder.
 
-In the calendar display, by enclosing the folowwing two weeks of a selected date in a shaded area the gestalt principles helps to provide the user with additional information. Using the law of uniform connectedness, the shading within the calendar is a signifier of the days until their next booking could be placed, clearly communicating days in the near future that a new booking could not be placed within that time frame.
+In the calendar display, by enclosing the following two weeks of a selected date in a shaded area the gestalt principles helps to provide the user with additional information. Using the law of uniform connectedness, the shading within the calendar is a signifier of the days until their next booking could be placed, clearly communicating days in the near future that a new booking could not be placed within that time frame.
 
-In the page similar questions are grouped together for continuity. The gestalt law of common region provides structure to help the user to understand the relationships which is further emphasized by ordering the questions chronologically in the order they may arise in the user's experience.
+In the FAQ page similar questions are grouped together for continuity. The gestalt law of common region provides structure to help the user to understand the relationships which is further emphasized by ordering the questions chronologically in the order they may arise in the user's experience.
 
 A focus was placed on minimizing extrenous design details to maintain useability in a low bandwidth environment. Under the assumption that most users would either be paying for low-capacity data mobile plans or using public wifi, a high bandwidth design with lots of graphics and resourse intensive plugins or scripting could be problematic.
 
@@ -103,11 +109,14 @@ A focus was placed on minimizing extrenous design details to maintain useability
 <!-- TODO point form to elaborate on -->
 - Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report.
 - Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry.
-- Liked that we were given enough time to plan for the project which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project.
+- Liked that we were given enough time to plan for the project which helped in speeding up the other phases of the project. Knowing what we are doing and how are we doing it easies the next phases in the development this project.
 - Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing.
+- Disliked that we were not able to test our MVP with real customers. 
+<!-- That was also mentioned later in this report.  -->
 ## What went well
-<!-- TODO -->
+<!-- TODO  (maybe DONE) -->
 The high fidelity prototypes designs went well and as expected, even though we had less time working on them we were able to produce interactive prototypes for desktop and mobile for our booking website. 
+
 The checkpoints with the RFB stakeholder provided the team with useful feedback and direction with regard to the progress made following each activity.
 
 Since we developed the wp-theme from scratch we were able to replicate our initial hi-fi designs exactly.
@@ -144,9 +153,13 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
 - expectation management
   - what the user would see as available vs what was delivered
 - 5-10% no shows, visually showing it on profiles allows for potential escalation for repeated no shows
-      - analytics on FAQ/Support
-      - tie to CRM for line of sight on potential repeat / high volume questions or issues
-
+  - analytics on FAQ/Support
+  - tie to CRM for line of sight on potential repeat / high volume questions or issues
+- Maybe there is a potential of adding a chatbot to the website
+  - Users can get the needed help faster
+- Adding an optional feature for placing automatic bookings/orders 
+  - for example, every 2 weeks a booking order will be placed and a notification is sent to the user reminding them of their order 
+  - users can cancel this anytime or change their default info 
 ---
 # WordPress Development
 <!-- TODO point form to elaborate on -->
@@ -159,3 +172,8 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
 - Longevity and support of plugins was questionable
   - potential for future inhouse support was mentioned but likely to be 3rd party, train on plugin developed rather than rely on a 2nd external supporter for plugin support
   - This allows for streamlining of support services
+  - frequent theme and plugin update
+    - might experience broken links or site crash
+- plugins can conflict with each other
+  - It is not unheard of for plugins to have compatibility issues with other plugins on the site. 
+    - Could result in broken functionality or even your site going down.
