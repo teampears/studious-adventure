@@ -99,7 +99,7 @@
   - We should make the delivery time in ranges rather than exact times
   - General flow is good and makes sense
   - Good to know the data of each household member (name, age, gender etc..)
-  - The houshold data is important for analytical analysis (determine the source of duplicates in the system)
+  - The houshold data is important for analysis (determine the source of duplicates in the system)
 #### Other notes from other groups
   - Needed but non-mandatory data will be sent to us by Tim
   - Family and profile information should only need to be entered once
@@ -136,14 +136,12 @@
 
 ### Checkpoint 4.1
 6.04.22
-#### Demo feedback 
-- The overall look of the website looks good. 
-- concerned about mobile version vs desktop version
+#### Demo feedback
+- The overall look of the website looks good.
+- good use of responsive design, mobile version vs desktop version
 - add an explanation to the user when asking about the number of household members
 	- make sure that the user know that the number of household members doesn't include the one who started the registration.
-	- the one started the registartion is already registered 
-- give users a time spot for answering questions 
+	- the one started the registartion is already registered
+- give users a time spot for answering questions
 	- for example, "We will get back to you in X amount of hours"
 	- Good to give people the opportunity to ask questions
-
-  
