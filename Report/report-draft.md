@@ -86,7 +86,7 @@ The customer journey map shown below summarizes our findings from the [mapping a
 Building on the key actions from the affinity diagraming activities, these were expanded into user stories along with the associated user experience activities to define the minimimal viable product. The userstory map evolved over the course of the project lifecycle to capture ideas developed at the client checkpoints for additional features and future integrations, effectively building an end to end roadmap through MVPs and future opportunities.
 
 ## Minimum Viable Product Selection
-<!-- TODO -->
+<!-- TODO maybe done !!-->
 The website we produced is an MVP (Minimum Viable Product) because it has been developed with sufficeint features to satisfy our early users. Yet the final, full featured product to be produced after crucial feedback from the target audience/users which will help making the product even better in the next developemnt cycle. 
 
 
@@ -106,7 +106,7 @@ A focus was placed on minimizing extrenous design details to maintain useability
 # Project Results
 <!-- Headings for keypoints to be made, headings do not neccessarily have to stay in final report -->
 ## Likes / Dislikes
-<!-- TODO point form to elaborate on -->
+<!-- TODO point form to elaborate on (added some points) -->
 - Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report.
 - Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry.
 - Liked that we were given enough time to plan for the project which helped in speeding up the other phases of the project. Knowing what we are doing and how are we doing it easies the next phases in the development this project.
@@ -148,7 +148,7 @@ Testing with real users on the type of devices they would commonly use would hav
 As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future designs we would only use one which more likely will be the high fidelity prototypes. Throughout this project we refered back to hifis more than we did with the lofis, especially in the last phase of this project, coding phase. In the future it would be better if the lofi and hifi designs were done in parrellel allowing more time to be dedicated to the project building
 
 ## Future opportunities and design ideas
-<!-- TODO point form to elaborate on -->
+<!-- TODO point form to elaborate on -> (added some points) -->
 - Canada food guide for categories of food included in the basket
   - potential to add an education piece on this
 - expectation management
@@ -163,7 +163,7 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
   - users can cancel this anytime or change their default info 
 ---
 # WordPress Development
-<!-- TODO point form to elaborate on -->
+<!-- TODO point form to elaborate on -> (added some points) -->
 **Key points:**
 - Plugins were found to be problematic, majority of features behind paywalls. The same applies to themes
 - Majority of scheduling plugins baked in CRM type functionality with minimal flexibility in regards to connecting to external CRM(Link2Feed)
