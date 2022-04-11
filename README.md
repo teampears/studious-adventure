@@ -1,10 +1,12 @@
 # studious-adventure
-
+<p align="center">
 ![Regina Foodbank Logo](https://pears.softsys.ca/wp-content/themes/siteTheme/images/logo.png)
+</p>
 
 # Video Demos
-
+<p align="center">
 ![demo 0](https://user-images.githubusercontent.com/70604257/162843438-fe6f924d-7681-4bc4-969f-248ff7c2ed1e.mov)    ![demo 1](https://user-images.githubusercontent.com/70604257/162843538-f36f9ed8-9935-4926-94ff-c93e4ee9e9f8.mov)
+</p>
 ---
 # WordPress Backup
 [Available here](https://github.com/teampears/studious-adventure/releases/tag/wp-backup)
