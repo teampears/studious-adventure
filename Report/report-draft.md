@@ -137,7 +137,8 @@ While planning, brainstorming and implementing this project, topics learnt in cl
 
 ## What should be done similarily in the future
 <!-- TODO (more to add)-->
-The initial design activeties framing the problem and creating a visual picture for the team to get alligned on a proper solution was paramount to creating a consistant idea that was built upon throughout the project
+The initial design activities framing the problem and creating a visual picture for the team to get alligned on a proper solution was paramount to creating a consistant idea that was built upon throughout the project. 
+
 
 ## What should be done differently in the future
 Future projects should begin with a team alignment on expectations regarding team member's: roles, time allocated to complete the deliverables, expected delays due to busy times, and frequency of communication. Understanding of the logistic requirements to meet eachothers, and the clients expectations and the effective communication of blockers or delays is paramount to the success of a project. This alignment, done at regular intervals could have improved the productivity of the team and shifted from an individual focus to a team focus.
