@@ -26,7 +26,7 @@ Customer Executive - John Bailey (CEO Regina Foodbank)
 
 Clients - Community served by the Regina Foodbank
 
-## High-level guidelines, principles, constraints, & assumptions
+# High-level guidelines, principles, constraints, & assumptions
 Provided by the Project Sponsor
 
 **Design approach:** Design Thinking (Agile)/Fast Feedback Cycle
