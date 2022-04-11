@@ -109,8 +109,10 @@ A focus was placed on minimizing extrenous design details to maintain useability
 <!-- TODO point form to elaborate on -->
 - Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report.
 - Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry.
-- Liked that we were given enough time to plan for the prject which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project.
+- Liked that we were given enough time to plan for the project which helped in speeding up the other phases of the project. Knowing what we are doing and how are we doing it easies the next phases in the development this project.
 - Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing.
+- Disliked that we were not able to test our MVP with real customers. 
+<!-- That was also mentioned later in this report.  -->
 ## What went well
 <!-- TODO  (maybe DONE) -->
 The high fidelity prototypes designs went well and as expected, even though we had less time working on them we were able to produce interactive prototypes for desktop and mobile for our booking website. 
@@ -149,7 +151,11 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
 - 5-10% no shows, visually showing it on profiles allows for potential escalation for repeated no shows
       - analytics on FAQ/Support
       - tie to CRM for line of sight on potential repeat / high volume questions or issues
-
+- Maybe there is a potential of adding a chatbot to the website
+      - Users can get the needed help faster
+- Adding an optional feature for placing automatic bookings/orders 
+      - for example, every 2 weeks a booking order will be placed and a nofication sent to the user reminding them of their order 
+      - users can cancel this anytime or change their default info 
 ---
 # WordPress Development
 <!-- TODO point form to elaborate on -->
