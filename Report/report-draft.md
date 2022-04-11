@@ -66,10 +66,10 @@ Building on the key actions from the affinity diagraming activities, these were 
 
 ## Summary of Prototyping Activities
 The use double diamond model encouraged the team to ensure that the right problem was solved through the process of diverging and exploring multiple alternatives then converging on a solution.
-*Brainstorming and divergence* where multiple [low-fidelity prototypes](Prototyping/Low%20Fidelity%20Prototypes/) were created to get a sense of the customer's needs and think openly about the problem.
-*Brainstorming and convergence* where one [high-fidelity prototype](Prototyping/High%20Fidelity%20Prototype/) was created to converge on the ideas explored through the low-fidelity prototypes and feedback received from the customer.
 
-Displaying a full month's calendar, by enclosing the two-week allowable booking time frame in a shaded area we are using gestalt principles to provide the user with information. The calendar is a signifier of the available days which are available for booking, rather than being presented in a tabular form, providing the user with a familiar and comfortable interface.
+The *divergence* phase took place with multiple [low-fidelity prototypes](Prototyping/Low%20Fidelity%20Prototypes/) to get a sense of the customer's needs and think openly about the problem by exploring multiple alternatives. In the *convergence* phase one [high-fidelity prototype](Prototyping/High%20Fidelity%20Prototype/) was created to narrow the focus of the ideas gained through alternatives explored during the low-fidelity prototype activity accompanied by feedback received from the RFB stakeholder.
+
+In the calendar display, by enclosing the two-week allowable booking time frame in a shaded area the gestalt principles helps to provide the user with additional information. The shading within the calendar is a signifier of the days until their next booking could be placed, rather than being presented in a tabular form, providing the user with a familiar and comfortable interface.
 
 ---
 # Project Results
@@ -83,6 +83,9 @@ Displaying a full month's calendar, by enclosing the two-week allowable booking 
 
 
 ## What didn't go well
+Managing the development through WordPress proved to be difficult as we did not have the tools we as future software engineers are accustomed to such as text editors and version control tools. This negatively impacted the efficiency of the development as easily tracking and finding changes all had to be done manually.
+
+Furthermore, without proper codebases management, debugging fairly simple issues such as CSS conflicts took considerably more time than it should have.
 
 ## Prototype to WP success
 Due to the fact that we did not use WordPress custom themes we were succefull in translating our hight fidelity prototypes to WordPress reality. we were able to use similar layout, images and colrs to the one we had in out prototypes which somehow made the WordPress experince easier and faster.
