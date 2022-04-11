@@ -103,13 +103,14 @@ A focus was placed on minimizing extrenous design details to maintain useability
 <!-- TODO point form to elaborate on -->
 - Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report.
 - Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry.
-- Liked that we were given enough time to plan for the prject which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project.
+- Liked that we were given enough time to plan for the project which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project.
 - Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing.
 ## What went well
 <!-- TODO -->
 The high fidelity prototypes designs went well and as expected, even though we had less time working on them we were able to produce interactive prototypes for desktop and mobile for our booking website. 
 The checkpoints with the RFB stakeholder provided the team with useful feedback and direction with regard to the progress made following each activity.
 
+Since we developed the wp-theme from scratch we were able to replicate our initial hi-fi designs exactly.
 ## What didn't go well
 More attention should have been paid to the Agile principles, namely; working software being the primary measure of progress; being able to maintain a constant pace indefinitely; technical excellence enhances agility; and maximizing the amount of work not done.
 
@@ -117,20 +118,24 @@ Managing the development through WordPress proved to be difficult as we did not 
 
 Furthermore, without proper codebases management, debugging fairly simple issues such as CSS conflicts took considerably more time than it should have. Some team members opted to work on changes locally rather than on the server. This added difficulty and considerable time in testing and left the remainder of the team lacking crucial details in regards to the state of the project and often left wondering when the work would be pushed. This approach did not allow for tasks to be done in parallel and increased the amount of re-work required to test for and resolve bugs.
 
+The code from the building phase of the project was riddeled with tech debt. This is mainly due to no version control allowed changes to be managed properly or reviewed with the rest of the team. Also, since there was a lack of agile principles applied during development, the final phase ended up being rushed which lead the team to get a "as long as it works it's fine" dogma. 
+
 ## Prototype to WP success
 Due to the fact that we did not use WordPress custom themes we were succefull in translating our high fidelity prototypes to WordPress reality. We were able to use similar layout, images and colrs to the one we had in our prototypes which somehow made the WordPress experince easier and faster.
 
 ## PCD influences in designs
-While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we emphasized on the importance of gibving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks and keep them informed of what they are doing. We tried to add signifiers when appropriate and we made use of Zeigarnik Effect and Postel's Law in order to make a more engaging experience.
+While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we emphasized on the importance of giving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks and keep them informed of what they are doing. We tried to add signifiers when appropriate and we made use of Zeigarnik Effect and Postel's Law in order to make a more engaging experience.
 
 ## What should be done similarily in the future
-<!-- TODO -->
+<!-- TODO (more to add)-->
+The initial design activeties framing the problem and creating a visual picture for the team to get alligned on a proper solution was paramount to creating a consistant idea that was built upon throughout the project
+
 ## What should be done differently in the future
 Future projects should begin with a team alignment on expectations regarding team member's: roles, time allocated to complete the deliverables, expected delays due to busy times, and frequency of communication. Understanding of the logistic requirements to meet eachothers, and the clients expectations and the effective communication of blockers or delays is paramount to the success of a project. This alignment, done at regular intervals could have improved the productivity of the team and shifted from an individual focus to a team focus.
 
 Testing with real users on the type of devices they would commonly use would have been beneficial, many other teams focused on desktop implementations while we focused on a mobile implementation and it would have been interesting to see the user test results from both. This would shift the focus from component reviews to experience reviews. Additionally, internal testing is time consuming and with the resources are team had proved to be daunting especially in the build phase. While the short demos during the stakeholder checkpoints provided some information, it was purely speculative as that information was not gained through testing of the actual prototypes.
 <!-- TODO align on this (DONE) -->
-As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future designs we would only use one which more likely will be the high fidelity prototypes. Throughout this project we refered back to hifis more than we did with the lofis, especially in the last phase of this project, coding phase.
+As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future designs we would only use one which more likely will be the high fidelity prototypes. Throughout this project we refered back to hifis more than we did with the lofis, especially in the last phase of this project, coding phase. In the future it would be better if the lofi and hifi designs were done in parrellel allowing more time to be dedicated to the project building
 
 ## Future opportunities and design ideas
 <!-- TODO point form to elaborate on -->
@@ -146,8 +151,11 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
 # WordPress Development
 <!-- TODO point form to elaborate on -->
 **Key points:**
-- Plugins were found to be problematic, majority of features behind paywalls
+- Plugins were found to be problematic, majority of features behind paywalls. The same applies to themes
 - Majority of scheduling plugins baked in CRM type functionality with minimal flexibility in regards to connecting to external CRM(Link2Feed)
+- A lot of the wordpress features that were baked into the framework (such as blog posts/ comments) were not useful to the project
+- Without a version control system, it was difficult to manage and track down changes.
+- There was no pipelines in place for CD/ CI all changes had to be deployed manually
 - Longevity and support of plugins was questionable
   - potential for future inhouse support was mentioned but likely to be 3rd party, train on plugin developed rather than rely on a 2nd external supporter for plugin support
   - This allows for streamlining of support services
