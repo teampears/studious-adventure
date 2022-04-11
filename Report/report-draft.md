@@ -89,14 +89,14 @@ Displaying a full month's calendar, by enclosing the two-week allowable booking 
 ## What didn't go well
 
 ## Prototype to WP success
-Due to the fact that we did not use WordPress custom themes we were succefull in translating our hight fidelity prototypes to WordPress reality. we were able to use similar layout, images and colrs to the one we had in out prototypes which somehow made the WordPress experince easier and faster.
+Due to the fact that we did not use WordPress custom themes we were succefull in translating our high fidelity prototypes to WordPress reality. We were able to use similar layout, images and colrs to the one we had in our prototypes which somehow made the WordPress experince easier and faster.
 ## PCD influences in designs
-The topics we learned about People-centered design helped us in implementing this design project. While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we empthesized on the importance of gibving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks of what they do. we tried to add signifiers when appropriate to make the user experience more delightful.
+While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we emphasized on the importance of gibving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks and keep them informed of what they are doing. We tried to add signifiers when appropriate and we made use of Zeigarnik Effect and Postel's Law in order to make a more engaging experience.
 ## What should be done similarily in the future
 
 
 ## What should be done differently in the future
-
+as team we think that the low fidelity prototypes are not as useful as the high fidelity prototypes, thus we think in future project we would just go from the planning phase to prototyping interactive high fidelity prototypes because they are more advantageous. As well, we think if the time that was spent on prototyping lofis was saved and more time was given for the implementation phase, then we think we w
 ## Future opportunities and design ideas
 
 ---
