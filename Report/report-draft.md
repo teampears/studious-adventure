@@ -97,6 +97,7 @@ The topics we learned about People-centered design helped us in implementing thi
 
 
 ## What should be done differently in the future
+As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future that we would only use one of them when designing a software. As well, 
 
 ## Future opportunities and design ideas
 
