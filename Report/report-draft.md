@@ -5,7 +5,9 @@ Food insecurity alone is a daunting issue to tackle, while the Food Bank provide
 
 The ongoing effects of the pandemic have created an increased need for support in our community, this is coupled with inflation that is particularly acute in its impact on non-discretionary items, food, rent, etc. have created demand growth that is leveling up. While the food bank has the logistic capacity to meet the need on the supply end the surge in demand has in many cases overwhelmed the organization’s capacity to book orders. Hight wait times and increasing call drops are presenting an increasing barrier to service.
 
-The opportunity here is to design, prototype, and (likely later) explore the development of a solution that allows clients to book hamper 24/7. Thus, eliminating barriers to access and potentially freeing up time to grow the overall impact of the Food Bank on the lives of people facing food insecurity.
+<!-- The opportunity here is to design, prototype, and (likely later) explore the development of a solution that allows clients to book hamper 24/7. Thus, eliminating barriers to access and potentially freeing up time to grow the overall impact of the Food Bank on the lives of people facing food insecurity. -->
+
+<!-- This is repeated down in the opportunity section ^ -->
 
 # Opportunity
 The Regina Food Bank uses a Customer Relationship Management (CRM) tool for food provisioning built by a company called Link2Feed (L2F).  L2F has signed an exclusive engagement with Food Banks Canada to manage CRM activities. At the beginning of the pandemic, L2F rushed a product to launch that allowed for online scheduling, where the Regina Food Bank was part of the pilot group. Ultimately the project failed because its application was better suited to real-time sign up (i.e. when clients were already inline) and was not a viable solution for advanced booking.
@@ -90,9 +92,9 @@ The use double diamond model encouraged the team to ensure that the right proble
 
 The *divergence* phase took place with multiple [low-fidelity prototypes](Prototyping/Low%20Fidelity%20Prototypes/) to get a sense of the customer's needs and think openly about the problem by exploring multiple alternatives. In the *convergence* phase one [high-fidelity prototype](Prototyping/High%20Fidelity%20Prototype/) was created to narrow the focus of the ideas gained through alternatives explored during the low-fidelity prototype activity accompanied by feedback received from the RFB stakeholder.
 
-In the calendar display, by enclosing the folowwing two weeks of a selected date in a shaded area the gestalt principles helps to provide the user with additional information. Using the law of uniform connectedness, the shading within the calendar is a signifier of the days until their next booking could be placed, clearly communicating days in the near future that a new booking could not be placed within that time frame.
+In the calendar display, by enclosing the following two weeks of a selected date in a shaded area the gestalt principles helps to provide the user with additional information. Using the law of uniform connectedness, the shading within the calendar is a signifier of the days until their next booking could be placed, clearly communicating days in the near future that a new booking could not be placed within that time frame.
 
-In the page similar questions are grouped together for continuity. The gestalt law of common region provides structure to help the user to understand the relationships which is further emphasized by ordering the questions chronologically in the order they may arise in the user's experience.
+In the FAQ page similar questions are grouped together for continuity. The gestalt law of common region provides structure to help the user to understand the relationships which is further emphasized by ordering the questions chronologically in the order they may arise in the user's experience.
 
 A focus was placed on minimizing extrenous design details to maintain useability in a low bandwidth environment. Under the assumption that most users would either be paying for low-capacity data mobile plans or using public wifi, a high bandwidth design with lots of graphics and resourse intensive plugins or scripting could be problematic.
 
@@ -106,8 +108,9 @@ A focus was placed on minimizing extrenous design details to maintain useability
 - Liked that we were given enough time to plan for the prject which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project.
 - Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing.
 ## What went well
-<!-- TODO -->
+<!-- TODO  (maybe DONE) -->
 The high fidelity prototypes designs went well and as expected, even though we had less time working on them we were able to produce interactive prototypes for desktop and mobile for our booking website. 
+
 The checkpoints with the RFB stakeholder provided the team with useful feedback and direction with regard to the progress made following each activity.
 
 ## What didn't go well
@@ -125,6 +128,7 @@ While planning, brainstorming and implementing this project, topics learnt in cl
 
 ## What should be done similarily in the future
 <!-- TODO -->
+ 
 ## What should be done differently in the future
 Future projects should begin with a team alignment on expectations regarding team member's: roles, time allocated to complete the deliverables, expected delays due to busy times, and frequency of communication. Understanding of the logistic requirements to meet eachothers, and the clients expectations and the effective communication of blockers or delays is paramount to the success of a project. This alignment, done at regular intervals could have improved the productivity of the team and shifted from an individual focus to a team focus.
 
