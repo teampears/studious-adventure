@@ -7,7 +7,7 @@ The Regina Food Bank uses a Customer Relationship Management (CRM) tool for food
 
 The system provisioned by L2F can import and export data and can integrate through an application programming interface (API). The opportunity here is to design, prototype, and (likely later) explore the development of a solution that allows clients to book hamper pick-ups 24/7. Thus, eliminating barriers to access and potentially freeing up time to grow the overall impact of the Food Bank on the lives of people facing food insecurity.
 
-## Challenge
+# Challenge
 A web based application tightly coupled to the Regina Foodbank's CRM will significantly improve the quality of service that the Regina Foodbank is able to provide and simplify statistical data collection for improved advocacy work.
 
 Booking is not easy for clients. There is a need for clients to be able to book a hamper from anywhere at anytime with assurance that they will be able to get their hamper delivered. Long wait times for phone booking has lead to an increase in the call drop rate as a high number of clients utilize pay-as-you-go phones with expensive by the minute usage.
@@ -22,11 +22,7 @@ Booking is not easy for clients. There is a need for clients to be able to book 
 - System support will be provided by a third party. The Regina Food Bank does not have an in-house IT/IS team so any troubleshooting etc. will be done by an outside vendor
 
 # Project Planning
-In the first pahse of the project, when we were first introduced to the probelm and opportunity we decided that the episodic clients, who may be new to seeking assistance from a service such as the Food Bank, would be the northstar client for this project. As these folks may not be familiar with the process, it is important to reduce the severity of the barriers (onboarding) to them as much as possible. And the carryover client would include chronic clients who require more regular assistance. As these clients are already familiar with the physical process of booking. They will now benefit from simpler and more easy to manage bookings.
-During this project number of assumptions were made. For instance, we assumed that the Regina Food Bank (RFB) has only two major types of clients, episodic and chronic clients. This assumption somewhat made things little eaiser and helped us focusing on the requirments and needs of these two groups of clients. Also, we
-
-# Clients or Customers
-
+## Clients or Customers
 ### Northstar
 The northstar client is episodic users who are new to having food insecurities. The amount of clients the foodbank has had to serve has increased significantly due to the pandemic, and inflation - new clients are not familiar with the platform and have been putting increasing strain on the phone booking lines.
 
@@ -77,7 +73,7 @@ Displaying a full month's calendar, by enclosing the two-week allowable booking 
 
 ---
 # Project Results
->> Headings for keypoints to be made, headings do not neccessarily have to stay in final report
+<!-- Headings for keypoints to be made, headings do not neccessarily have to stay in final report -->
 ## Likes / Dislikes
 - Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report.
 - Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry.
@@ -89,14 +85,16 @@ Displaying a full month's calendar, by enclosing the two-week allowable booking 
 ## What didn't go well
 
 ## Prototype to WP success
-Due to the fact that we did not use WordPress custom themes we were succefull in translating our high fidelity prototypes to WordPress reality. We were able to use similar layout, images and colrs to the one we had in our prototypes which somehow made the WordPress experince easier and faster.
+Due to the fact that we did not use WordPress custom themes we were succefull in translating our hight fidelity prototypes to WordPress reality. we were able to use similar layout, images and colrs to the one we had in out prototypes which somehow made the WordPress experince easier and faster.
+
 ## PCD influences in designs
-While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we emphasized on the importance of gibving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks and keep them informed of what they are doing. We tried to add signifiers when appropriate and we made use of Zeigarnik Effect and Postel's Law in order to make a more engaging experience.
+The topics we learned about People-centered design helped us in implementing this design project. While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we empthesized on the importance of gibving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks of what they do. we tried to add signifiers when appropriate to make the user experience more delightful.
+
 ## What should be done similarily in the future
 
 
 ## What should be done differently in the future
-as team we think that the low fidelity prototypes are not as useful as the high fidelity prototypes, thus we think in future project we would just go from the planning phase to prototyping interactive high fidelity prototypes because they are more advantageous. As well, we think if the time that was spent on prototyping lofis was saved and more time was given for the implementation phase, then we think we w
+
 ## Future opportunities and design ideas
 
 ---
