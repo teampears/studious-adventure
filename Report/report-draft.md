@@ -61,7 +61,7 @@ The site will be developed, deployed, and managed using WordPress as a Content M
 * Number of client types was restricted to 2 for the purpose of the MVP
 
 ## Summary of Mapping Activities
-The customer journey map shown below summarizes our findings from the [mapping activities](Mapping%20Activities/) previously completed. Affinity mapping built the basic structure of user needs, describing the actions of the user while empathy mapping envisioned the client's mindset and emotions as they step through the actions to use the service. Keypoints from both the affinity and empathy mapping activies where selected and set to a timeline to visualize the customers end to end experience. The customer journey map effectively allowed  the team to build a unified mental model of the experience to be shared with the RFB stakeholder to confirm that the vision was shared.
+The customer journey map shown below summarizes our findings from the [mapping activities](Mapping%20Activities/) previously completed. Affinity mapping built the basic structure of user needs, describing the actions of the user while empathy mapping envisioned the client's mindset and emotions as they step through the actions to use the service. Keypoints from both the affinity and empathy mapping activities where selected and set to a timeline to visualize the customers end to end experience. The customer journey map effectively allowed  the team to build a unified mental model of the experience to be shared with the RFB stakeholder to confirm that the vision was shared.
 <!-- journey
   title RFB Online Booking
   section Onboard
