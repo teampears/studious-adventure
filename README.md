@@ -1,4 +1,7 @@
 # studious-adventure
+
+![Regina Foodbank Logo](https://pears.softsys.ca/wp-content/themes/siteTheme/images/logo.png)
+
 Over the lifecycle of the project, various aspects of the design process have been explored through the following acitvities.
 
 ### Activity 1
@@ -21,4 +24,4 @@ A [project charter](Documentation/ProjectCharter.md) was created defining the pr
 
 Reviews for each prototyping phase provide the details of the design concepts learned throughout the course of the project implemented in each of the [low-fidelity](Prototyping/Low%20Fidelity%20Prototypes/) and [high-fidelity](Prototyping/High%20Fidelity%20Prototype/) prototypes.
 
-Final [report](Report/) summarizing the project over the course of it's lifecycle. 
+Final [report](Report/) summarizing the project over the course of it's lifecycle.
