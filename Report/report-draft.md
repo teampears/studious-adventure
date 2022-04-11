@@ -5,10 +5,6 @@ Food insecurity alone is a daunting issue to tackle, while the Food Bank provide
 
 The ongoing effects of the pandemic have created an increased need for support in our community, this is coupled with inflation that is particularly acute in its impact on non-discretionary items, food, rent, etc. have created demand growth that is leveling up. While the food bank has the logistic capacity to meet the need on the supply end the surge in demand has in many cases overwhelmed the organization’s capacity to book orders. Hight wait times and increasing call drops are presenting an increasing barrier to service.
 
-<!-- The opportunity here is to design, prototype, and (likely later) explore the development of a solution that allows clients to book hamper 24/7. Thus, eliminating barriers to access and potentially freeing up time to grow the overall impact of the Food Bank on the lives of people facing food insecurity. -->
-
-<!-- This is repeated down in the opportunity section ^ -->
-
 # Opportunity
 The Regina Food Bank uses a Customer Relationship Management (CRM) tool for food provisioning built by a company called Link2Feed (L2F). L2F has signed an exclusive engagement with Food Banks Canada to manage CRM activities. At the beginning of the pandemic, L2F rushed a product to launch that allowed for online scheduling, where the Regina Food Bank was part of the pilot group. Ultimately the project failed because its application was better suited to real-time sign up (i.e. when clients were already inline) and was not a viable solution for advanced booking.
 
@@ -22,10 +18,12 @@ One of the largest barriers is the capability to book a hamper, and to know with
 # Stakeholders
 ## Internal
 Project Sponsor - Dr. Tim Maciag
+
 Team Pears Members - Ben, Daniil, Kawthar
 
 ## External
 Customer Executive - John Bailey (CEO Regina Foodbank)
+
 Clients - Community served by the Regina Foodbank
 
 ## High-level guidelines, principles, constraints, & assumptions
@@ -87,7 +85,7 @@ Building on the key actions from the affinity diagraming activities, these were 
 
 ## Minimum Viable Product Selection
 <!-- TODO maybe done !!-->
-The website we produced is an MVP (Minimum Viable Product) because it has been developed with sufficeint features to satisfy our early users. Yet the final, full featured product to be produced after crucial feedback from the target audience/users which will help making the product even better in the next developemnt cycle. 
+The website we produced is an MVP (Minimum Viable Product) because it has been developed with sufficeint features to satisfy our early users. Yet the final, full featured product to be produced after crucial feedback from the target audience/users which will help making the product even better in the next developemnt cycle.
 
 
 
@@ -111,15 +109,15 @@ A focus was placed on minimizing extrenous design details to maintain useability
 - Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry.
 - Liked that we were given enough time to plan for the project which helped in speeding up the other phases of the project. Knowing what we are doing and how are we doing it easies the next phases in the development this project.
 - Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing.
-- Disliked that we were not able to test our MVP with real customers. 
-<!-- That was also mentioned later in this report.  -->
+
 ## What went well
 <!-- TODO  (maybe DONE) -->
-The high fidelity prototypes designs went well and as expected, even though we had less time working on them we were able to produce interactive prototypes for desktop and mobile for our booking website. 
+The high fidelity prototypes designs went well and as expected, even though we had less time working on them we were able to produce interactive prototypes for desktop and mobile for our booking website.
 
 The checkpoints with the RFB stakeholder provided the team with useful feedback and direction with regard to the progress made following each activity.
 
 Since we developed the wp-theme from scratch we were able to replicate our initial hi-fi designs exactly.
+
 ## What didn't go well
 More attention should have been paid to the Agile principles, namely; working software being the primary measure of progress; being able to maintain a constant pace indefinitely; technical excellence enhances agility; and maximizing the amount of work not done.
 
@@ -127,7 +125,7 @@ Managing the development through WordPress proved to be difficult as we did not 
 
 Furthermore, without proper codebases management, debugging fairly simple issues such as CSS conflicts took considerably more time than it should have. Some team members opted to work on changes locally rather than on the server. This added difficulty and considerable time in testing and left the remainder of the team lacking crucial details in regards to the state of the project and often left wondering when the work would be pushed. This approach did not allow for tasks to be done in parallel and increased the amount of re-work required to test for and resolve bugs.
 
-The code from the building phase of the project was riddeled with tech debt. This is mainly due to no version control allowed changes to be managed properly or reviewed with the rest of the team. Also, since there was a lack of agile principles applied during development, the final phase ended up being rushed which lead the team to get a "as long as it works it's fine" dogma. 
+The code from the building phase of the project was riddeled with tech debt. This is mainly due to no version control allowed changes to be managed properly or reviewed with the rest of the team. Also, since there was a lack of agile principles applied during development, the final phase ended up being rushed which lead the team to get a "as long as it works it's fine" dogma.
 
 ## Prototype to WP success
 Due to the fact that we did not use WordPress custom themes we were succefull in translating our high fidelity prototypes to WordPress reality. We were able to use similar layout, images and colrs to the one we had in our prototypes which somehow made the WordPress experince easier and faster.
@@ -137,7 +135,7 @@ While planning, brainstorming and implementing this project, topics learnt in cl
 
 ## What should be done similarily in the future
 <!-- TODO (more to add)-->
-The initial design activities framing the problem and creating a visual picture for the team to get alligned on a proper solution was paramount to creating a consistant idea that was built upon throughout the project. 
+The initial design activities framing the problem and creating a visual picture for the team to get alligned on a proper solution was paramount to creating a consistant idea that was built upon throughout the project.
 
 
 ## What should be done differently in the future
@@ -158,9 +156,9 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
   - tie to CRM for line of sight on potential repeat / high volume questions or issues
 - Maybe there is a potential of adding a chatbot to the website
   - Users can get the needed help faster
-- Adding an optional feature for placing automatic bookings/orders 
-  - for example, every 2 weeks a booking order will be placed and a notification is sent to the user reminding them of their order 
-  - users can cancel this anytime or change their default info 
+- Adding an optional feature for placing automatic bookings/orders
+  - for example, every 2 weeks a booking order will be placed and a notification is sent to the user reminding them of their order
+  - users can cancel this anytime or change their default info
 ---
 # WordPress Development
 <!-- TODO point form to elaborate on -> (added some points) -->
@@ -176,5 +174,5 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
   - frequent theme and plugin update
     - might experience broken links or site crash
 - plugins can conflict with each other
-  - It is not unheard of for plugins to have compatibility issues with other plugins on the site. 
+  - It is not unheard of for plugins to have compatibility issues with other plugins on the site.
     - Could result in broken functionality or even your site going down.
