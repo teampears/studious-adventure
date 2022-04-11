@@ -4,6 +4,7 @@ The Regina Food Bank is the oldest food bank in Canada. The user base of the org
 Food insecurity alone is a daunting issue to tackle, while the Food Bank provides support to those in need additional barriers only hinder an individuals capacity to change their situation. As John put it, the goal of the Food Bank is to solve food insecurity, not to provide security and part of that solution is reducing the number and size of the barriers that folks suffering from food insecurity face.
 
 The ongoing effects of the pandemic have created an increased need for support in our community, this is coupled with inflation that is particularly acute in its impact on non-discretionary items, food, rent, etc. have created demand growth that is leveling up. While the food bank has the logistic capacity to meet the need on the supply end the surge in demand has in many cases overwhelmed the organization’s capacity to book orders. Hight wait times and increasing call drops are presenting an increasing barrier to service.
+
 The opportunity here is to design, prototype, and (likely later) explore the development of a solution that allows clients to book hamper 24/7. Thus, eliminating barriers to access and potentially freeing up time to grow the overall impact of the Food Bank on the lives of people facing food insecurity.
 
 # Opportunity
@@ -22,7 +23,7 @@ Project Sponsor - Dr. Tim Maciag
 Team Pears Members - Ben, Daniil, Kawthar
 
 ## External
-Customer - John Bailey (CEO Regina Foodbank)
+Customer Executive - John Bailey (CEO Regina Foodbank)
 Clients - Community served by the Regina Foodbank
 
 ## High-level guidelines, principles, constraints, & assumptions
@@ -41,7 +42,7 @@ Provided by the Project Sponsor
 
 # Project Planning
 ## Clients
-Some folks may not be familiar with the booking process, therefore it is important to reduce the severity of the barriers (onboarding). Potential clients could include chronic clients who require more regular assistance, and episodic clients who may be more transient in their use. In both cases, some of these customers may already be familiar with the existing process of booking but stand to benefit from the simplicity and assurance a web based booking implementation would provide.
+Some folks may not be familiar with the booking process, therefore it is important to reduce the severity of the barriers (onboarding) to access. Potential clients could include chronic clients who require more regular assistance, and episodic clients who may be more transient in their use. In both cases, some of these customers may already be familiar with the existing process of booking but stand to benefit from the simplicity and assurance a web based booking implementation would provide.
 
 ### Northstar
 The northstar client is episodic users who are new to having food insecurities. The amount of clients the foodbank has had to serve has increased significantly due to the pandemic, and inflation - new clients are not familiar with the platform and have been putting increasing strain on the phone booking lines.
@@ -53,7 +54,7 @@ Chronic clients who are already onboarded and are familiar with the proccess of 
 The site will be developed, deployed, and managed using WordPress as a Content Management System. A minimum viable product will be delivered at the end of this project, more so following the form of an exploration of feasibility study. From this a fully featured product may be developed and deployed in a future opportunity.
 
 ## Constraints
-* WordPress as the Content Management System
+* WordPress as the CMS
 * Link2Feed as the CRM
 * Routific handles deliveries and routing
 * Some information collected is only to be used for statistical analysis to aid in advocacy efforts
@@ -83,7 +84,7 @@ The customer journey map shown below summarizes our findings from the [mapping a
 Building on the key actions from the affinity diagraming activities, these were expanded into user stories along with the associated user experience activities to define the minimimal viable product. The userstory map evolved over the course of the project lifecycle to capture ideas developed at the client checkpoints for additional features and future integrations, effectively building an end to end roadmap through MVPs and future opportunities.
 
 ## Minimum Viable Product Selection
-
+<!-- TODO -->
 ## Summary of Prototyping Activities
 The use double diamond model encouraged the team to ensure that the right problem was solved through the process of diverging and exploring multiple alternatives then converging on a solution.
 
@@ -99,11 +100,13 @@ A focus was placed on minimizing extrenous design details to maintain useability
 # Project Results
 <!-- Headings for keypoints to be made, headings do not neccessarily have to stay in final report -->
 ## Likes / Dislikes
+<!-- TODO point form to elaborate on -->
 - Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report.
 - Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry.
 - Liked that we were given enough time to plan for the prject which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project.
 - Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing.
 ## What went well
+<!-- TODO -->
 The checkpoints with the RFB stakeholder provided the team with useful feedback and direction with regard to the progress made following each activity.
 
 ## What didn't go well
@@ -120,22 +123,30 @@ Due to the fact that we did not use WordPress custom themes we were succefull in
 While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we emphasized on the importance of gibving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks and keep them informed of what they are doing. We tried to add signifiers when appropriate and we made use of Zeigarnik Effect and Postel's Law in order to make a more engaging experience.
 
 ## What should be done similarily in the future
-
-
+<!-- TODO -->
 ## What should be done differently in the future
-Future projects should begin with a team alignment on expectations regarding team member's: roles, time allocated to complete the deliverables, expected delays due to busy times, and frequency of communication. Understanding of the logistic requirements to meet eachothers, and the clients expectations and the effective communication of blockers or delays is paramount to the success of a project. This alignment, done at regular intervals could have improved the productivity of the team.
+Future projects should begin with a team alignment on expectations regarding team member's: roles, time allocated to complete the deliverables, expected delays due to busy times, and frequency of communication. Understanding of the logistic requirements to meet eachothers, and the clients expectations and the effective communication of blockers or delays is paramount to the success of a project. This alignment, done at regular intervals could have improved the productivity of the team and shifted from an individual focus to a team focus.
 
-Testing with real users on the type of devices they would commonly use would have been beneficial, many other teams focused on desktop implementations while we focused on a mobile implementation and it would have been interesting to see the user test results from both. Additionally, internal testing is time consuming and with the resources are team had proved to be daunting especially in the build phase. While the short demos during the stakeholder checkpoints provided some information, it was purely speculative as that information was not gained through testing of the actual prototypes.
-
+Testing with real users on the type of devices they would commonly use would have been beneficial, many other teams focused on desktop implementations while we focused on a mobile implementation and it would have been interesting to see the user test results from both. This would shift the focus from component reviews to experience reviews. Additionally, internal testing is time consuming and with the resources are team had proved to be daunting especially in the build phase. While the short demos during the stakeholder checkpoints provided some information, it was purely speculative as that information was not gained through testing of the actual prototypes.
+<!-- TODO align on this -->
 <!-- As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future that we would only use one of them when designing a software. As well, -->
 
 ## Future opportunities and design ideas
+<!-- TODO point form to elaborate on -->
+- Canada food guide for categories of food included in the basket
+  - potential to add an education piece on this
+- expectation management
+  - what the user would see as available vs what was delivered
+- 5-10% no shows, visually showing it on profiles allows for potential escalation for repeated no shows
+      - analytics on FAQ/Support
+      - tie to CRM for line of sight on potential repeat / high volume questions or issues
 
 ---
 # WordPress Development
+<!-- TODO point form to elaborate on -->
 **Key points:**
 - Plugins were found to be problematic, majority of features behind paywalls
 - Majority of scheduling plugins baked in CRM type functionality with minimal flexibility in regards to connecting to external CRM(Link2Feed)
 - Longevity and support of plugins was questionable
-  - Future inhouse support was mentioned, train on plug in developed rather than rely on a 2nd external supporter for soley plugin support
+  - potential for future inhouse support was mentioned but likely to be 3rd party, train on plugin developed rather than rely on a 2nd external supporter for plugin support
   - This allows for streamlining of support services
