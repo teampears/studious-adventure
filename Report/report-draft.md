@@ -149,13 +149,13 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
 - expectation management
   - what the user would see as available vs what was delivered
 - 5-10% no shows, visually showing it on profiles allows for potential escalation for repeated no shows
-      - analytics on FAQ/Support
-      - tie to CRM for line of sight on potential repeat / high volume questions or issues
+  - analytics on FAQ/Support
+  - tie to CRM for line of sight on potential repeat / high volume questions or issues
 - Maybe there is a potential of adding a chatbot to the website
-      - Users can get the needed help faster
+  - Users can get the needed help faster
 - Adding an optional feature for placing automatic bookings/orders 
-      - for example, every 2 weeks a booking order will be placed and a nofication sent to the user reminding them of their order 
-      - users can cancel this anytime or change their default info 
+  - for example, every 2 weeks a booking order will be placed and a nofication sent to the user reminding them of their order 
+  - users can cancel this anytime or change their default info 
 ---
 # WordPress Development
 <!-- TODO point form to elaborate on -->
