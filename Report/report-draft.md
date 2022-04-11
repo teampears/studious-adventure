@@ -161,18 +161,12 @@ As a team we think that the low fidelity prototypes were not as useful as the hi
   - users can cancel this anytime or change their default info
 ---
 # WordPress Development
-<!-- TODO point form to elaborate on -> (added some points) -->
-**Key points:**
-- Plugins were found to be problematic, majority of features behind paywalls. The same applies to themes
-- Majority of scheduling plugins baked in CRM type functionality with minimal flexibility in regards to connecting to external CRM(Link2Feed)
-- A lot of the wordpress features that were baked into the framework (such as blog posts/ comments) were not useful to the project
-- Without a version control system, it was difficult to manage and track down changes.
-- There was no pipelines in place for CD/ CI all changes had to be deployed manually
-- Longevity and support of plugins was questionable
-  - potential for future inhouse support was mentioned but likely to be 3rd party, train on plugin developed rather than rely on a 2nd external supporter for plugin support
-  - This allows for streamlining of support services
-  - frequent theme and plugin update
-    - might experience broken links or site crash
-- plugins can conflict with each other
-  - It is not unheard of for plugins to have compatibility issues with other plugins on the site.
-    - Could result in broken functionality or even your site going down.
+The implementation of plugins and themes were found to be problematic, with the majority of features behind paywalls that disabled all but the most basic functionality. Scheduling plugins baked in CRM type functionality with minimal flexibility in regards to connecting to an external CRM. WordPress focuses on a framework for content creators and bloggers alike and the majority of these features are not applicable to a static site used for booking appointments.
+
+As mentioned in the lessons learned, a lack of version control system made it difficult to track and manage changes especially through the development phase, and while these may not be as useful for a customer to update content on their site, it hindered our ability to rapidly iterate on changes through development.
+
+A CD/CI pipeline would have also increased the speed of development and iteration by streamlining the deployment, rather than manually deploying changes and checking for conflicts.
+
+Reliability and longevity of plugins was also questionable, when reading reviews as plugins were evaluated there was a common theme of plugins failing and having to rely on third party support supplied by the plugin creator. Since third-party support was initially required in the design guides, it did not make sense to have to rely on an additional party when the existing support contract could incorporate support for the custom plugin we've written. This allows for more direct and efficient control of the support, both logistically and contractually.
+
+When relying on third party resources such as plugins, themes, and libraries, it is not uncommon to fall to the mercy of these creators, as these resources are updated they pose a high risk of introducing new bugs which could lead to the site not fuunctioning as it should at best, to crashing, and at worsed data loss. Compatibility issues may also be introduced, whether with other plugins or with the CRM.
