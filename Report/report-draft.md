@@ -10,7 +10,7 @@ The system provisioned by L2F can import and export data and can integrate throu
 # Challenge
 A web based application tightly coupled to the Regina Foodbank's CRM will significantly improve the quality of service that the Regina Foodbank is able to provide and simplify statistical data collection for improved advocacy work.
 
-Booking is not easy for clients. There is a need for clients to be able to book a hamper from anywhere at anytime with assurance that they will be able to get their hamper delivered. Long wait times for phone booking has lead to an increase in the call drop rate as a high number of clients utilize pay-as-you-go phones with expensive by the minute usage.
+Booking is not easy for clients. There is a need for clients to be able to book a hamper from anywhere at anytime with assurance that they will be able to get their hamper. Long wait times for phone booking has lead to an increase in the call drop rate as a high number of clients utilize pay-as-you-go phones with expensive by the minute usage.
 
 ## High-level guidelines, principles, constraints, & assumptions
 **Design approach:** Design Thinking (Agile)/Fast Feedback Cycle
@@ -85,7 +85,7 @@ In the calendar display, by enclosing the two-week allowable booking time frame 
 ## What didn't go well
 Managing the development through WordPress proved to be difficult as we did not have the tools we as future software engineers are accustomed to such as text editors and version control tools. This negatively impacted the efficiency of the development as easily tracking and finding changes all had to be done manually.
 
-Furthermore, without proper codebases management, debugging fairly simple issues such as CSS conflicts took considerably more time than it should have.
+Furthermore, without proper codebases management, debugging fairly simple issues such as CSS conflicts took considerably more time than it should have. Some team members opted to work on changes locally rather than on the server. This added difficulty and considerable time in testing and left the remainder of the team lacking crucial details in regards to the state of the project, often left wondering when the work would be pushed. This approach did not allow for tasks to be done in parallel and increased the amount of re-work required to test for and resolve bugs.
 
 ## Prototype to WP success
 Due to the fact that we did not use WordPress custom themes we were succefull in translating our hight fidelity prototypes to WordPress reality. we were able to use similar layout, images and colrs to the one we had in out prototypes which somehow made the WordPress experince easier and faster.
@@ -97,7 +97,7 @@ The topics we learned about People-centered design helped us in implementing thi
 
 
 ## What should be done differently in the future
-As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future that we would only use one of them when designing a software. As well, 
+As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future that we would only use one of them when designing a software. As well,
 
 ## Future opportunities and design ideas
 
