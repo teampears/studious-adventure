@@ -71,6 +71,8 @@ The *divergence* phase took place with multiple [low-fidelity prototypes](Protot
 
 In the calendar display, by enclosing the two-week allowable booking time frame in a shaded area the gestalt principles helps to provide the user with additional information. The shading within the calendar is a signifier of the days until their next booking could be placed, rather than being presented in a tabular form, providing the user with a familiar and comfortable interface.
 
+In the page similar questions are grouped together for continuity. The gestalt law of common region provides structure to help the user to understand the relationships which is further emphasized by ordering the questions chronologically in the order they may arise in the user's experience.
+
 ---
 # Project Results
 <!-- Headings for keypoints to be made, headings do not neccessarily have to stay in final report -->
@@ -80,20 +82,20 @@ In the calendar display, by enclosing the two-week allowable booking time frame 
 - Liked that we were given enough time to plan for the prject which helped in speeding up the other phases of the project. Knowing what we are doing and how we are doing easies the next phases in the development this project.
 - Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing.
 ## What went well
-The checkpoints with the RFB stakeholder provided the team with useful feedback and direction with regard to the progress made following each activity. 
+The checkpoints with the RFB stakeholder provided the team with useful feedback and direction with regard to the progress made following each activity.
 
 ## What didn't go well
 More attention should have been paid to the Agile principles, namely; working software being the primary measure of progress; being able to maintain a constant pace indefinitely; technical excellence enhances agility; and maximizing the amount of work not done.
 
-Managing the development through WordPress proved to be difficult as we did not have the tools we are accustomed to such as text editors and version control tools. This negatively impacted the efficiency of the development as easily tracking and finding changes all had to be done manually.
+Managing the development through WordPress proved to be difficult as we did not have the tools we are accustomed to such as text editors and version control tools. This negatively impacted the efficiency of the development as finding and tracking changes all had to be done manually.
 
 Furthermore, without proper codebases management, debugging fairly simple issues such as CSS conflicts took considerably more time than it should have. Some team members opted to work on changes locally rather than on the server. This added difficulty and considerable time in testing and left the remainder of the team lacking crucial details in regards to the state of the project and often left wondering when the work would be pushed. This approach did not allow for tasks to be done in parallel and increased the amount of re-work required to test for and resolve bugs.
 
 ## Prototype to WP success
-Due to the fact that we did not use WordPress custom themes we were succefull in translating our hight fidelity prototypes to WordPress reality. we were able to use similar layout, images and colrs to the one we had in out prototypes which somehow made the WordPress experince easier and faster.
+Due to the fact that we did not use WordPress custom themes we were succefull in translating our high fidelity prototypes to WordPress reality. We were able to use similar layout, images and colrs to the one we had in our prototypes which somehow made the WordPress experince easier and faster.
 
 ## PCD influences in designs
-The topics we learned about People-centered design helped us in implementing this design project. While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we empthesized on the importance of gibving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks of what they do. we tried to add signifiers when appropriate to make the user experience more delightful.
+While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we emphasized on the importance of gibving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks and keep them informed of what they are doing. We tried to add signifiers when appropriate and we made use of Zeigarnik Effect and Postel's Law in order to make a more engaging experience.
 
 ## What should be done similarily in the future
 
@@ -101,7 +103,7 @@ The topics we learned about People-centered design helped us in implementing thi
 ## What should be done differently in the future
 Future projects should begin with a team alignment on expectations regarding team member's: roles, time allocated to complete the deliverables, expected delays due to busy times, and frequency of communication. Understanding of the logistic requirements to meet eachothers, and the clients expectations and the effective communication of blockers or delays is paramount to the success of a project. This alignment, done at regular intervals could have improved the productivity of the team.
 
-As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future that we would only use one of them when designing a software. As well,
+<!-- As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future that we would only use one of them when designing a software. As well, -->
 
 ## Future opportunities and design ideas
 
