@@ -107,6 +107,7 @@ A focus was placed on minimizing extrenous design details to maintain useability
 - Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing.
 ## What went well
 <!-- TODO -->
+The high fidelity prototypes designs went well and as expected, even though we had less time working on them we were able to produce interactive prototypes for desktop and mobile for our booking website. 
 The checkpoints with the RFB stakeholder provided the team with useful feedback and direction with regard to the progress made following each activity.
 
 ## What didn't go well
