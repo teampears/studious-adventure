@@ -84,10 +84,9 @@ The customer journey map shown below summarizes our findings from the [mapping a
 Building on the key actions from the affinity diagraming activities, these were expanded into user stories along with the associated user experience activities to define the minimimal viable product. The userstory map evolved over the course of the project lifecycle to capture ideas developed at the client checkpoints for additional features and future integrations, effectively building an end to end roadmap through MVPs and future opportunities.
 
 ## Minimum Viable Product Selection
-<!-- TODO maybe done !!-->
-The website we produced is an MVP (Minimum Viable Product) because it has been developed with sufficeint features to satisfy our early users. Yet the final, full featured product to be produced after crucial feedback from the target audience/users which will help making the product even better in the next developemnt cycle.
+Feedback from John at the Checkpoints was vital in determining what would be included in the CRM. From these Checkpoints we were able to gain valuable insights into the exact requirements of the application to satisfy the northstar clients. Feedback on the mapping activities allowed the team to expand this knowledge in the form of a userstory map outlining the particular user stories and UX activities required to produce the MVP.
 
-
+Further iterations on this MVP would benefit from increased end user testing to build a further understanding of what could be required to produce a truly satisfying solution.
 
 ## Summary of Prototyping Activities
 The use double diamond model encouraged the team to ensure that the right problem was solved through the process of diverging and exploring multiple alternatives then converging on a solution.
@@ -110,12 +109,11 @@ It was rewarding to work on a real world problem and gain experience interacting
 A significant amount of time was spent planning the development of the web application rather than actually implementing it and it provided a strong foundation to enter the build phase as most of the decision making was done in advance. This eliminated potential re-work with respect to the visual design though more time could have been dedicated to the design of the backend or spent researching more plugins.
 
 ## What went well
-<!-- TODO  (maybe DONE) -->
-The high fidelity prototypes designs went well and as expected, even though we had less time working on them we were able to produce interactive prototypes for desktop and mobile for our booking website.
+The high fidelity prototypes designs went well and as expected, even though we had less time working on them we were able to produce interactive prototypes for desktop and mobile implementations.
 
-The checkpoints with the RFB stakeholder provided the team with useful feedback and direction with regard to the progress made following each activity.
+The Checkpoints with the RFB stakeholder provided the team with useful feedback and direction with regard to the progress made following each activity.
 
-Since we developed the wp-theme from scratch we were able to replicate our initial hi-fi designs exactly.
+Since we developed the WordPress Theme from scratch we were able to replicate our initial hi-fi designs exactly.
 
 ## What didn't go well
 More attention should have been paid to the Agile principles, namely; working software being the primary measure of progress; being able to maintain a constant pace indefinitely; technical excellence enhances agility; and maximizing the amount of work not done.
@@ -133,9 +131,7 @@ Due to the fact that we did not use WordPress custom themes we were succefull in
 While planning, brainstorming and implementing this project, topics learnt in class have influenced our design and assisted in implementing an easy to use booking website. For instance, in class we emphasized on the importance of giving users an appropriate feedback of everything they do, so in our design we tried to give our users feedbacks and keep them informed of what they are doing. We tried to add signifiers when appropriate and we made use of Zeigarnik Effect and Postel's Law in order to make a more engaging experience.
 
 ## What should be done similarily in the future
-<!-- TODO (more to add)-->
 The initial design activities framing the problem and creating a visual picture for the team to get alligned on a proper solution was paramount to creating a consistant idea that was built upon throughout the project.
-
 
 ## What should be done differently in the future
 Future projects should begin with a team alignment on expectations regarding team member's: roles, time allocated to complete the deliverables, expected delays due to busy times, and frequency of communication. Understanding of the logistic requirements to meet eachothers, and the clients expectations and the effective communication of blockers or delays is paramount to the success of a project. This alignment, done at regular intervals could have improved the productivity of the team and shifted from an individual focus to a team focus.
