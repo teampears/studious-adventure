@@ -1,3 +1,14 @@
+# Stakeholders
+## Internal
+Project Sponsor - Dr. Tim Maciag
+
+Team Pears Members - Ben, Daniil, Kawthar
+
+## External
+Customer Executive - John Bailey (CEO Regina Foodbank)
+
+Clients - Community served by the Regina Foodbank
+
 # Business need
 The Regina Food Bank is the oldest food bank in Canada. The user base of the organization comes from all over the city and ranges from those who request services only once or twice to those who require services on an ongoing basis. The current system for an individual or family to request service is to phone in to a centralized call center and have a team member set up an appointment in our booking software.
 
@@ -14,17 +25,6 @@ The system provisioned by L2F can import and export data and can integrate throu
 A web based application tightly coupled to the Regina Foodbank's CRM will significantly improve the quality of service that the Regina Foodbank is able to provide and simplify statistical data collection for improved advocacy work.
 
 One of the largest barriers is the capability to book a hamper, and to know with confidence that it will be available, without spending time on the phone waiting for help. Long wait times for phone booking has lead to an increase in the call drop rate as a high number of clients utilize pay-as-you-go phones with expensive by the minute usage.
-
-# Stakeholders
-## Internal
-Project Sponsor - Dr. Tim Maciag
-
-Team Pears Members - Ben, Daniil, Kawthar
-
-## External
-Customer Executive - John Bailey (CEO Regina Foodbank)
-
-Clients - Community served by the Regina Foodbank
 
 # High-level guidelines, principles, constraints, & assumptions
 Provided by the Project Sponsor
@@ -102,13 +102,12 @@ A focus was placed on minimizing extrenous design details to maintain useability
 
 ---
 # Project Results
-<!-- Headings for keypoints to be made, headings do not neccessarily have to stay in final report -->
 ## Likes / Dislikes
-<!-- TODO point form to elaborate on (added some points) -->
-- Disliked the idea that we are constrained to use WordPress, because it sometimes limited us, as mentioned later in this report.
-- Liked the idea that we solved a real world problem and had a chance to meet with customer to get feedback which helps us see and learn what it looks like out in industry.
-- Liked that we were given enough time to plan for the project which helped in speeding up the other phases of the project. Knowing what we are doing and how are we doing it easies the next phases in the development this project.
-- Liked that we were given the chance and time to implement high fidelity prototypes of our design idea. Thus, saving us time in the last pahse of this project, coding/implementation phase, because we knew what we are doing and the look of what we are doing.
+Working within the constraint of WordPress was challenging as it limited the development flexibility and management capabilities. For some teams it may have mitigated the issue of diving into the weeds of the core development to focus strictly on the design concepts, though we delivered an MVP that was very close visually to the high fidelity prototype. High fidelity prototypes proved to be essential to successfully implementing the web application and served as a reference for implementing the design.
+
+It was rewarding to work on a real world problem and gain experience interacting with a client. This provided the feedback needed to gain understanding of the reality of what it feels like to work in industry.
+
+A significant amount of time was spent planning the development of the web application rather than actually implementing it and it provided a strong foundation to enter the build phase as most of the decision making was done in advance. This eliminated potential re-work with respect to the visual design though more time could have been dedicated to the design of the backend or spent researching more plugins.
 
 ## What went well
 <!-- TODO  (maybe DONE) -->
@@ -142,20 +141,19 @@ The initial design activities framing the problem and creating a visual picture 
 Future projects should begin with a team alignment on expectations regarding team member's: roles, time allocated to complete the deliverables, expected delays due to busy times, and frequency of communication. Understanding of the logistic requirements to meet eachothers, and the clients expectations and the effective communication of blockers or delays is paramount to the success of a project. This alignment, done at regular intervals could have improved the productivity of the team and shifted from an individual focus to a team focus.
 
 Testing with real users on the type of devices they would commonly use would have been beneficial, many other teams focused on desktop implementations while we focused on a mobile implementation and it would have been interesting to see the user test results from both. This would shift the focus from component reviews to experience reviews. Additionally, internal testing is time consuming and with the resources are team had proved to be daunting especially in the build phase. While the short demos during the stakeholder checkpoints provided some information, it was purely speculative as that information was not gained through testing of the actual prototypes.
-<!-- TODO align on this (DONE) -->
-As a team we think that the low fidelity prototypes were not as useful as the high fidelity prototypes. Thus, we think in future designs we would only use one which more likely will be the high fidelity prototypes. Throughout this project we refered back to hifis more than we did with the lofis, especially in the last phase of this project, coding phase. In the future it would be better if the lofi and hifi designs were done in parrellel allowing more time to be dedicated to the project building
+
+Low fidelity prototypes were useful for exploring alternative design ideas, concepts from each where incorporated into the high fidelity prototype. These low fidelity prototypes required so little time to iterate on, it may have been beneficial to use the time between the lofi and hifi activities to begin work on the high fidelity prototype earlier. Most of the design decisions had been made and the checkpoint review was more so meant for confirmation rather than direction. Completing these two activities in parallel in the future may allow for more time to be spent in the build phase which may be beneficial.
 
 ## Future opportunities and design ideas
-<!-- TODO point form to elaborate on -> (added some points) -->
 To accompany the education piece on the Regina Foodbank, their efforts, and drive to help meet the dietary needs of the community that they serve, additional information from the Canada Food Guide could be added to the descriptions of each hamper. This information could help clients make an informed decision on their hamper selection.
 
 To ensure the clients are satisfied with the service, a form of expectation management could be implemented by asking for feedback on the experience as well as whether the selection provided in the hampers met their expectations. Confirmation of pickup or delivery could be tracked in the CRM and connected to the status of previous bookings. This could allow for service side escalation of repetitive no-shows or failed delivery attempts.
 
 Analytics on the most frequently submitted client questions could be tracked in the CRM to gain line of sight on potential repeat or high volume questions, triggering various actions. These actions could range from updating the FAQ to provide clients with an answer, to making UX changes in future iterations.
 
-Agencies may find it helpful to set automatic orderplacing for a base number of clients, and additionally add additional orders if required by an influx of clients to their services. This would streamline their operation as well as it would reduce the management requirement to only changes in bookings, rather than the entirety of the bookings.
+Agencies may find it helpful to set automatic order placing for a base number of clients and only alter orders if required by a change in number of clients utilizing their services. This would streamline their operation as well as it would reduce the management requirement to only changes in bookings, rather than the entirety of the bookings.
 
-An AI chatbot may be added to provide users with information on frquently asked questions tying into the analytics of support previously mentioned.
+An AI chatbot may be added to provide users with information on frequently asked questions tying into the analytics of support previously mentioned.
 ---
 # WordPress Development
 The implementation of plugins and themes were found to be problematic, with the majority of features behind paywalls that disabled all but the most basic functionality. Scheduling plugins baked in CRM type functionality with minimal flexibility in regards to connecting to an external CRM. WordPress focuses on a framework for content creators and bloggers alike and the majority of these features are not applicable to a static site used for booking appointments.
